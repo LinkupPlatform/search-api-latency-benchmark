@@ -1,0 +1,3023 @@
+{
+  "dataset": "data/simpleqa_verified.csv",
+  "dataset_sha256": "b5db21155444763543fe31b67e7cf28ce2bb225742a5b889421c5f182e2f92f5",
+  "dataset_limit": 1000,
+  "seed": 42,
+  "model": "gpt-5.6-luna",
+  "queries_by_index": {
+    "2863": [
+      "16th NERCPA conference host city"
+    ],
+    "488": [
+      "2019 Cape Town International Jazz Festival choir name"
+    ],
+    "79": [
+      "2021 Skate America Bradie Tennell replacement"
+    ],
+    "3290": [
+      "Glipa andamana species description year"
+    ],
+    "1225": [
+      "1769 Anas leucocephala original scientific name recorder white-headed duck"
+    ],
+    "1095": [
+      "Shastri Nagar Metro Station Delhi former name"
+    ],
+    "1039": [
+      "Cylindrovertilla kingi endemic country"
+    ],
+    "618": [
+      "Seiko became Official Timer Olympics year"
+    ],
+    "3278": [
+      "atogepant chemical formula"
+    ],
+    "452": [
+      "György Lukács \"The possession of the power of the state\" newspaper"
+    ],
+    "3023": [
+      "Chris Thile \"God Is Alive, Magic Is Afoot\" album"
+    ],
+    "3289": [
+      "Dev Shumsher Jung Bahadur Rana prime minister tenure start end dates"
+    ],
+    "3955": [
+      "Gloria Niemeyer Francke associate editor 1944 1964 journal"
+    ],
+    "2484": [
+      "Junya Watanabe Comme des Garçons joined year",
+      "Junya Watanabe started designing Comme des Garçons line three years after joining"
+    ],
+    "365": [
+      "Flying magazine \"Battling the Big Lie\" \"John King\" publication date"
+    ],
+    "2659": [
+      "Mary Ann Arty Pennsylvania House of Representatives 1981 district"
+    ],
+    "1889": [
+      "Third Day \"Nothing at All\" Billboard rock chart peak"
+    ],
+    "131": [
+      "Arvind Kejriwal 1985 All India Rank AIR"
+    ],
+    "104": [
+      "Bure Nangal Batala 2011 Census houses"
+    ],
+    "397": [
+      "Nepal \"City of Nine Hills\""
+    ],
+    "1018": [
+      "first Bennett Cup auto race start date Parc de Saint-Cloud Lyon 566 km"
+    ],
+    "1060": [
+      "Manish Pandey strike rate KKR vs SRH March 24 2019 IPL scorecard"
+    ],
+    "2283": [
+      "Mohamed Abdelaziz Djaït Mufti of the Republic of Tunisia tenure dates"
+    ],
+    "2709": [
+      "Eduardo Laurencena predecessor President National Committee UCR"
+    ],
+    "83": [
+      "Henry Scadding Toronto of Old HMS Ontario 1780 deaths"
+    ],
+    "2551": [
+      "Taz Russky Klyapovskoye Rural Settlement population 2010"
+    ],
+    "914": [
+      "Benjamin Samuel Bolomey became pupil of Joseph-Marie Vien year"
+    ],
+    "3212": [
+      "Rosalía 2019 EP title"
+    ],
+    "2923": [
+      "Glipodes dietrichi Franciscolo description year"
+    ],
+    "3171": [
+      "Diane Marie Disney grammar school before Immaculate Heart High School"
+    ],
+    "4251": [
+      "Heidi Yellen 2003 healthy human body signature frequency MHz"
+    ],
+    "1870": [
+      "Nkosuostool Development stool created by Asantehene Otumfuo Opoku Ware II year"
+    ],
+    "1025": [
+      "Raissa M. D'Souza B.S. physics university"
+    ],
+    "2001": [
+      "2020 Tokyo Olympics women's épée team final standings 8th place country"
+    ],
+    "2658": [
+      "T. M. Selvaganapathy Pleasant Stay hotel case High Court acquittal date"
+    ],
+    "1232": [
+      "Konaruiyeh village Esfandaqeh Rural District Jiroft County 2006 census population"
+    ],
+    "3564": [
+      "U.S. presidents birth dates 18th century"
+    ],
+    "3814": [
+      "first use of laugh track radio show"
+    ],
+    "23": [
+      "To Serve and Protect Canadian reality series U.S. TV station debut"
+    ],
+    "3391": [
+      "Rimegepant PubChem CID"
+    ],
+    "3553": [
+      "August 2006 Anambra governorship election tribunal judge Chris Ngige nullified victory surname"
+    ],
+    "744": [
+      "Mediterranean Sea maximum depth meters"
+    ],
+    "3150": [
+      "International Society for Soil Mechanics and Geotechnical Engineering second president"
+    ],
+    "4245": [
+      "Salvador Dalí villa lent several months 1938"
+    ],
+    "1542": [
+      "molybdenum third ionization energy kJ/mol"
+    ],
+    "4188": [
+      "Henri d'Angoulême governor of Provence secretary"
+    ],
+    "711": [
+      "Alberto Olvera Hernández first clock outside family farm Santiago Apostol Church town Mexico"
+    ],
+    "1010": [
+      "1982 total lunar eclipses count"
+    ],
+    "3415": [
+      "A.N. Ray 14th Chief Justice of India grandfather"
+    ],
+    "1517": [
+      "Aseprite release notes \"Added option to enable the 'Snap to Grid' option for the brush preview\" #4137"
+    ],
+    "4265": [
+      "Lady Annabel Goldsmith named after song title"
+    ],
+    "395": [
+      "1963 libel case \"The Saturday Evening Post\" football teams"
+    ],
+    "1740": [
+      "Richard Neutra Elkay Apartments client"
+    ],
+    "432": [
+      "\"Clays of New York, Their Properties and Uses\" Le Chatelier thermoelectric pyrometer accuracy degrees Fahrenheit"
+    ],
+    "1653": [
+      "world's first solid titanium watch name"
+    ],
+    "3704": [
+      "FitzGerald secured pension Oliver Heaviside 1896 man"
+    ],
+    "1587": [
+      "largest doab in India"
+    ],
+    "2712": [
+      "Guillermo Fernandez Honeybee Conservancy childhood immigrant country"
+    ],
+    "1181": [
+      "Henry Martin Nevius joined law office Russell A. Alger spring year"
+    ],
+    "3555": [
+      "first B.A.S.S. Bassmaster Tournament location"
+    ],
+    "185": [
+      "Maharaj Kishan Bhan Padma Bhushan civil services award year"
+    ],
+    "3263": [
+      "2022 Expert Classes Unearthed Arcana Dungeons & Dragons Bard subclass"
+    ],
+    "2067": [
+      "1990 North America HeroQuest Game System original contents Fimir miniatures quantity"
+    ],
+    "2444": [
+      "Leonard P. Zakim first involved Michael Dukakis reelection campaign year"
+    ],
+    "547": [
+      "Mary Letitia Caldwell Ph.D. thesis title"
+    ],
+    "1738": [
+      "Yolo Akili full birth name"
+    ],
+    "333": [
+      "Reeve of North Red Deer Alberta 1924 1925"
+    ],
+    "2522": [
+      "Netflix official ChromeOS support streaming service announcement month year Chromebook"
+    ],
+    "1297": [
+      "Chilean National Prize for Exact Sciences 2019 winner"
+    ],
+    "3646": [
+      "Yamaha YM2203 concurrent FM synthesis channels voices"
+    ],
+    "2827": [
+      "2016 Indie RPG of the Year award winner"
+    ],
+    "2793": [
+      "Richard Diebenkorn began teaching California College of Arts and Crafts year"
+    ],
+    "3919": [
+      "Nomeansno \"The River\" first released album"
+    ],
+    "3771": [
+      "Axitinib UNII Pfizer"
+    ],
+    "1671": [
+      "Olga Kharlan Kim Ji-yeon 2013 World Championships final score"
+    ],
+    "2619": [
+      "A major bebop scale notes"
+    ],
+    "880": [
+      "1969 Honda CL125 wheelbase millimeters"
+    ],
+    "3181": [
+      "Winnipeg Falcons players died in World War I"
+    ],
+    "297": [
+      "In Living Color 1990 Fly Girls five seasons member"
+    ],
+    "202": [
+      "Saha Airlines 2019 Boeing 707 crash sole survivor name"
+    ],
+    "2973": [
+      "Etta Cone commission Henri Matisse posthumous portrait Claribel Cone year"
+    ],
+    "1049": [
+      "original ActRaiser soundtrack Japan release date day month year"
+    ],
+    "3448": [
+      "Mayo College India first principal"
+    ],
+    "1290": [
+      "Reita Faria Miss World 1966 crowned by"
+    ],
+    "336": [
+      "architect tasked finishing chapel Papal apartment incomplete Pope Paul IV moved October 1556"
+    ],
+    "3737": [
+      "Michaela Hübschle born Michaela Kuntze first university studied after school hometown"
+    ],
+    "4227": [
+      "Frida Kahlo Self-Portrait with Loose Hair Christie's New York May 1991 auction sale price USD"
+    ],
+    "3796": [
+      "Lolab Valley Kupwara to Bandipore via Aloosa village distance kilometers"
+    ],
+    "448": [
+      "Antonio López de Santa Anna vice president years"
+    ],
+    "4118": [
+      "BraviSEAmo! Tokyo DisneySea 2004 2010 sponsor company"
+    ],
+    "4149": [
+      "Walt Whitman Peter Doyle New York opera May 1870"
+    ],
+    "2030": [
+      "first Prime Minister Democratic Republic of the Congo full name"
+    ],
+    "2851": [
+      "China Zorrilla Chevalier des Arts et des Lettres year"
+    ],
+    "3669": [
+      "Sam Manekshaw flyover bridge city India"
+    ],
+    "1688": [
+      "first reported sexually dichromatic snake Indian subcontinent scientific name"
+    ],
+    "751": [
+      "William Schwartz drug bacterial infections diuretic congestive heart failure"
+    ],
+    "1717": [
+      "Kanpur tractor-trolley temple return pond accident October 2 2022 deaths"
+    ],
+    "1640": [
+      "\"There was never a question in anyone’s mind\" \"Ma was governor\" Houston Chronicle"
+    ],
+    "970": [
+      "June 21 2001 solar eclipse magnitude"
+    ],
+    "3009": [
+      "MoEF&CC 2019 Goa forest land diverted non-forestry purposes Forest Conservation Act 1980 1 January 2015 5 February 2019 hectares"
+    ],
+    "1199": [
+      "Pramod Kale Shri Hari Om Ashram Prerit Vikram Sarabhai Award System Analysis and Management Problems year"
+    ],
+    "4200": [
+      "Vujica Lazović master's degree 1994 university"
+    ],
+    "3071": [
+      "KLM Flight 4805 Pan Am Flight 1736 collision total fatalities"
+    ],
+    "2918": [
+      "Eduard Buchner University of Munich promoted assistant lecturer lecturer year"
+    ],
+    "302": [
+      "Robert Patrick Weston birthplace district"
+    ],
+    "2739": [
+      "Louise Bourgeois sculpture 1955 name"
+    ],
+    "3923": [
+      "first Indian appointed Professor of Mathematics and Natural Philosophy Elphinstone College Bombay"
+    ],
+    "786": [
+      "Simmi Kahlon common-law husband name"
+    ],
+    "2429": [
+      "Tivoli Gardens Demon replaced attraction"
+    ],
+    "3259": [
+      "2022 Madrid Open women's singles second round Romanian players"
+    ],
+    "4277": [
+      "Leo Tolstoy visited Ilya Repin's studio introduced himself year"
+    ],
+    "752": [
+      "The Last Unicorn soundtrack album track listing track 11"
+    ],
+    "2079": [
+      "Sikkim forest cover area square kilometers IRS Resourcesat-2 LISS III 2017"
+    ],
+    "1739": [
+      "1952 Helsinki Olympics opening ceremony Olympic Stadium spectators attendance"
+    ],
+    "1202": [
+      "Levante UD vs Real Sociedad June 6 2022 Jorge Miramón goal time"
+    ],
+    "2869": [
+      "Toronto Public Library collection established 1977 children's librarian head TPL"
+    ],
+    "3092": [
+      "St. John's Church Gateshead Fell organ installed 2000 previously located church"
+    ],
+    "2538": [
+      "India first nano-satellite name"
+    ],
+    "1019": [
+      "Evangelical Lutheran Church in Tanzania presiding bishop successor to Stefano Moshi"
+    ],
+    "3078": [
+      "World Changers Ministries Christian Center first worship service elementary school name"
+    ],
+    "1452": [
+      "Bullard Mountain Boundary Ranges Alaska namesake"
+    ],
+    "3693": [
+      "A.V. Alexandrov Twice Red-bannered and Red-starred Song and Dance Ensemble of the Soviet Army official name year"
+    ],
+    "3439": [
+      "George T. Fulford son-in-law sworn Privy Council July 31 1930"
+    ],
+    "3461": [
+      "Nils Jerlov 1939 doctoral thesis title"
+    ],
+    "247": [
+      "Valencia Bioparc first elephant born name"
+    ],
+    "1050": [
+      "\"An Electric Self-Sensing and Variable-Stiffness Artificial Muscle\" first published date"
+    ],
+    "3613": [
+      "Kathmandu Municipality declared metropolitan city 1995 mayor"
+    ],
+    "4243": [
+      "TLC \"Let's Do It Again\" song writer"
+    ],
+    "3552": [
+      "Walter Rodney posthumous honor Guyanese government"
+    ],
+    "1415": [
+      "Margaret Gardiner art collector Hampstead London home street address"
+    ],
+    "1816": [
+      "Kaitlin Armstrong arraignment pleaded not guilty Moriah Wilson murder month year"
+    ],
+    "1200": [
+      "2016 Wisden-MCC Cricket Photograph of the Year winner"
+    ],
+    "283": [
+      "World Bank 2021 renewable freshwater resources per capita country ranking"
+    ],
+    "983": [
+      "LEGO part 54093 stud dimensions"
+    ],
+    "2567": [
+      "Bannerman family crest man right hand object"
+    ],
+    "3228": [
+      "2004 Top 100 Great South Africans 17th woman"
+    ],
+    "1400": [
+      "female disc jockey sued Maryland Racing Commission license 1968"
+    ],
+    "1000": [
+      "Canon introduced two new UHDgc 2/3-inch Portable Zoom Lenses 4K UHD broadcast cameras date"
+    ],
+    "2945": [
+      "Ellen Kuzwayo Betty Wolpert documentary 1982 title"
+    ],
+    "2261": [
+      "\"Identifying Semantic Role Clusters and Alignment Types via Microrole Coexpression Tendencies\" 25 languages database"
+    ],
+    "1794": [
+      "Kos Dorian Pentapolis coinage image variations two images"
+    ],
+    "2892": [
+      "Phillip Paul Bliss appointed teacher Rome Pennsylvania Academy year"
+    ],
+    "2057": [
+      "2013 De Gennes Prize winner surname"
+    ],
+    "659": [
+      "Rosie Perez In Living Color other job besides choreographer"
+    ],
+    "1190": [
+      "Ranuccio Bianchi Bandinelli Dialoghi di archeologia founded year"
+    ],
+    "4270": [
+      "Benny Hinn Ministries tsunami relief donation 2007 amount"
+    ],
+    "1108": [
+      "Granat X gamma-ray observatory original name"
+    ],
+    "3301": [
+      "Ghana April 27 1960 constitutional referendum percentage voters against"
+    ],
+    "4219": [
+      "Henry Draper Catalogue number of classified stars August 2017"
+    ],
+    "2449": [
+      "Liechtenstein Collection bronze Damned Soul Gian Lorenzo Bernini creator"
+    ],
+    "1176": [
+      "Carlo Alberto Galluzzi Vice-Chair Delegation Relations Member States ASEAN AIPO Republic of Korea year"
+    ],
+    "3306": [
+      "Kinoko Teikoku first EP"
+    ],
+    "2638": [
+      "March 2021 Acapulco ATP 500 tennis player disciplinary probe fined walked off court"
+    ],
+    "1910": [
+      "Whitt L. Moreland birthplace city"
+    ],
+    "2635": [
+      "Pterolophia exigua first description author"
+    ],
+    "1808": [
+      "Contract Law of the People's Republic of China abolished year month"
+    ],
+    "3998": [
+      "Robert Moog Shirley May Leigh number of children"
+    ],
+    "3769": [
+      "Swedish term \"the eleven roar\" university students windows scream"
+    ],
+    "617": [
+      "Tipacoque Boyacá Colombia municipality creation date"
+    ],
+    "2307": [
+      "Prafullachandra Natwarlal Bhagwati Chief Justice of India tenure start date",
+      "Prafullachandra Natwarlal Bhagwati Chief Justice of India tenure end date"
+    ],
+    "2232": [
+      "Society of Illustrators Welfare Fund established year"
+    ],
+    "394": [
+      "1981-82 Coppa Italia Serie C winner"
+    ],
+    "3352": [
+      "\"Aluminium Metal Matrix Composites – A Review\" Mahendra Boopathi M alloy physical properties"
+    ],
+    "213": [
+      "Belva Davis television debut station"
+    ],
+    "483": [
+      "Activision Blizzard announced establishment new esports division month year"
+    ],
+    "704": [
+      "ArcTanGent 2013 Arc stage Friday headliner"
+    ],
+    "2826": [
+      "2007 Super 14 Ellis Park Stadium February 2 teams"
+    ],
+    "4157": [
+      "Václav Hlavatý death city state"
+    ],
+    "3522": [
+      "1972 Hopfield networks recurrent neural networks first described"
+    ],
+    "3040": [
+      "\"Land of the Rising Sun\" Republic of Biafra national anthem lyrics last line"
+    ],
+    "4154": [
+      "Busch Gardens Williamsburg Questor 1990 motion simulator gnome airship crystal expedition ultimate goal"
+    ],
+    "2677": [
+      "Robert J. Mrazek first wife"
+    ],
+    "279": [
+      "Edward A. Tuttle patent October 11 1881 machine"
+    ],
+    "1753": [
+      "International Mathematical Union 2012 vice-president Brazilian"
+    ],
+    "1742": [
+      "May Roosevelt third album"
+    ],
+    "4184": [
+      "health organizations letter President John F. Kennedy National Commission on Smoking"
+    ],
+    "2119": [
+      "Doris Lusk Tuai Power Station painting year"
+    ],
+    "2409": [
+      "painter Davyd Whaley birthplace U.S. state"
+    ],
+    "1129": [
+      "TCG Yavuz F240 length meters"
+    ],
+    "2523": [
+      "Kingda Ka struck by lightning 2009 closure duration months"
+    ],
+    "37": [
+      "Bernard Comrie married 1985 wife full name"
+    ],
+    "3578": [
+      "1900 world record 39 consecutive chin-ups record holder"
+    ],
+    "3236": [
+      "Filip Hašek professional debut July 22 2018 opponent"
+    ],
+    "509": [
+      "Tiny Tour of Aotearoa July 2020 Rose Matafeo co-star"
+    ],
+    "3066": [
+      "Steven Furtick church gave members 2007 dollar amount"
+    ],
+    "4070": [
+      "former First Lady Met Gala co-chair 1977 1978"
+    ],
+    "3332": [
+      "Norman Rockwell teenage art director publication"
+    ],
+    "3881": [
+      "Harry Belafonte parochial school attended"
+    ],
+    "3441": [
+      "Frank Lloyd Wright father original Christian denomination"
+    ],
+    "2878": [
+      "site:archive.org \"A Survey of London\" \"1243\" \"Crown pleas\" justice"
+    ],
+    "4151": [
+      "S. M. Sikri University of Cambridge college law"
+    ],
+    "4306": [
+      "William Holwell Carr father occupation"
+    ],
+    "4039": [
+      "Mauritius villages became single administrative unit 1963"
+    ],
+    "1955": [
+      "Daniel arap Moi mother name"
+    ],
+    "725": [
+      "inaugural Hessenpokal winner"
+    ],
+    "3930": [
+      "Telegram introduced animated emoji month year"
+    ],
+    "13": [
+      "Monash Gallery of Art MGA rebrand Museum of Australian Photography MAPh year"
+    ],
+    "3241": [
+      "2012 ICJ Bajo Nuevo sovereignty country"
+    ],
+    "3229": [
+      "María Teresa Castillo 1908 birthplace Venezuelan state"
+    ],
+    "4035": [
+      "Lucas Valeriu Ntuba Radebe school attended until age 15"
+    ],
+    "2268": [
+      "Motonori Matuyama birth date"
+    ],
+    "3413": [
+      "Robert \"Bob\" Guy Walls painter born 1927 birthplace country"
+    ],
+    "829": [
+      "Express Tribune \"Aga Khan University Hospital\" \"Neuro-Robotic Exoscope\" publication date"
+    ],
+    "2300": [
+      "Centro Botín Spain \"Amigos\" exhibition year"
+    ],
+    "462": [
+      "Vickerman Hill New York elevation feet"
+    ],
+    "2817": [
+      "World's Leading Adventure Hotel 2022 winner"
+    ],
+    "1329": [
+      "Port Huron Michigan population 2020 Census"
+    ],
+    "4319": [
+      "Aloha Township Michigan settler selected name"
+    ],
+    "3463": [
+      "India river \"Lion's Mouth\" Tibet"
+    ],
+    "3851": [
+      "Umlesh Yadav 2017 election affidavit assets liabilities crores"
+    ],
+    "4215": [
+      "Rastriya Prajatantra Party Nepal founded date"
+    ],
+    "3593": [
+      "Wood River Baptist Association Illinois formation year"
+    ],
+    "1726": [
+      "Özbek Şabanözü 2021 census population"
+    ],
+    "3484": [
+      "Coco Gauff USTA Clay Court National 12-and-under title date",
+      "Coco Gauff date of birth"
+    ],
+    "750": [
+      "Belmont St. Saviour's Hill Jersey purchased 1822 man name"
+    ],
+    "2452": [
+      "Lyndon B. Johnson briefly taught Pearsall school"
+    ],
+    "2419": [
+      "Kaizer Chiefs trophy won October 12 2019"
+    ],
+    "5": [
+      "surgeon held responsible Stella Obasanjo death ordered to pay son euros"
+    ],
+    "2693": [
+      "Olton Willem van Genderen death date"
+    ],
+    "1448": [
+      "Alexej von Jawlensky expelled from Germany year"
+    ],
+    "2209": [
+      "1st ASEM Transport Ministers' Meeting start date"
+    ],
+    "69": [
+      "Everton league position when Rafael Benitez sacked 2021-22 Premier League"
+    ],
+    "3514": [
+      "60th Governor of North Carolina"
+    ],
+    "1674": [
+      "Richard Serra first outdoor sculptures country"
+    ],
+    "1368": [
+      "Galip Ulsoy Charles Russ Richards Memorial Award ASME Pi Tau Sigma year"
+    ],
+    "1080": [
+      "7-Zip \"7-Zip now can unpack DMG archives that use LZFSE compression method\" release notes"
+    ],
+    "254": [
+      "Matija Radović Hofstra Pride 2017-18 games played"
+    ],
+    "1081": [
+      "Liverpool vs Leicester December 30 2022 halftime score"
+    ],
+    "3698": [
+      "Pauline LaFon Gore number of siblings"
+    ],
+    "4041": [
+      "Gian Lorenzo Bernini Ecstasy of Saint Teresa papacy"
+    ],
+    "360": [
+      "Zippo Pine Bar 1992 Hall of Fame induction"
+    ],
+    "3266": [
+      "33rd President of Costa Rica"
+    ],
+    "2181": [
+      "Hannes Fink place of birth"
+    ],
+    "296": [
+      "David Hibbett Bachelor of Arts university"
+    ],
+    "2426": [
+      "2019 Rugby World Cup television match officials England number"
+    ],
+    "548": [
+      "Sri Lanka vs West Indies Final Colombo October 7 2012 match referee"
+    ],
+    "563": [
+      "diazepam ChemSpider ID"
+    ],
+    "2967": [
+      "Kommunistisk Forbund founding date day month year"
+    ],
+    "2145": [
+      "Durga Prasad Dhar appointed Union Minister for Planning month year"
+    ],
+    "2497": [
+      "opposed appointment new Imperial Lord Privy Seal direct conflict Émile Ollivier"
+    ],
+    "761": [
+      "Bindy Johal age when immigrated to Vancouver with parents"
+    ],
+    "3671": [
+      "Jerry Lee Lewis 13th album Mercury Records release year"
+    ],
+    "2407": [
+      "2014 Brooding language development Riddlesbrood Touring Theater Company"
+    ],
+    "2730": [
+      "LEGO discontinued part ID 4178 number of sets"
+    ],
+    "1890": [
+      "Internal Foundation for Internal Freedom official newsletter name Timothy Leary"
+    ],
+    "3703": [
+      "Time March 29 April 5 2021 issue cover photographer"
+    ],
+    "3424": [
+      "Sangtarashan Cave city location"
+    ],
+    "4080": [
+      "KK Birla Garden city Jammu division"
+    ],
+    "3111": [
+      "Andrew Garbarino Bachelor of Arts History Classical Humanities university District of Columbia"
+    ],
+    "926": [
+      "Pherzawl District first Deputy Commissioner"
+    ],
+    "3207": [
+      "Weston Ohio 2000 census number of households"
+    ],
+    "1390": [
+      "Elliott Fitch Shepard nominated United States Attorney Southern District of New York Rutherford B. Hayes year"
+    ],
+    "3629": [
+      "Acidalia virginaria binomial name"
+    ],
+    "3010": [
+      "Louise M. Antony bachelor's degree philosophy university"
+    ],
+    "4206": [
+      "Sitagliptin ChemSpider ID"
+    ],
+    "3583": [
+      "International Union of Geological Sciences first woman executive committee"
+    ],
+    "1963": [
+      "first Southern Hemisphere city second after Philadelphia electric street lights infrastructure"
+    ],
+    "2359": [
+      "Edward Meyrick Glyphipterix saurodonta original description year"
+    ],
+    "2022": [
+      "NASA NSSDCA Foton-9 spacecraft ID"
+    ],
+    "533": [
+      "Massimo Cacciari date of birth"
+    ],
+    "1111": [
+      "ICA Hall Medal 2011 winner"
+    ],
+    "1042": [
+      "Patricia Bullrich first husband"
+    ],
+    "3561": [
+      "Nilgai state animal Union Territory of India"
+    ],
+    "1531": [
+      "The Jazzmen trombone player at Kenny Ball death"
+    ],
+    "73": [
+      "Abdullah Bridge Srinagar total length meters flyover viaduct"
+    ],
+    "2657": [
+      "Selena Gomez \"When the Sun Goes Down\" Japan release date"
+    ],
+    "2532": [
+      "September 2022 Devils Hole Pupfish population count most observed in 19 years"
+    ],
+    "1054": [
+      "SROSS-C satellite launch date Satish Dhawan Space Centre India"
+    ],
+    "3218": [
+      "Edward Ambrose Hug MLB debut team"
+    ],
+    "4194": [
+      "2006 National Census Sonqorabad Alborz population 337 households"
+    ],
+    "29": [
+      "WWI Q-Ship Salvia false counter-stern resembled ship type"
+    ],
+    "299": [
+      "224 Oceana asteroid namesake ocean"
+    ],
+    "3192": [
+      "\"Welcome to Paradise\" first release month year"
+    ],
+    "2833": [
+      "Congress act Puerto Rico elected governor name"
+    ],
+    "261": [
+      "first modern European Fencing Championships men's foil gold medalist"
+    ],
+    "3721": [
+      "Newbliss Ontario first schoolhouse built 1830 name"
+    ],
+    "291": [
+      "John Cage Two^5 instrumentation instruments"
+    ],
+    "3717": [
+      "3430 Bradfield discovery observatory location U.S. state"
+    ],
+    "1497": [
+      "Nikolai Talyzin dismissed from Nikolai Ryzhkov government month year perestroika"
+    ],
+    "3202": [
+      "largest tributary Chenab River"
+    ],
+    "2326": [
+      "Princess Bathildis of Anhalt-Dessau date of birth date of death"
+    ],
+    "1075": [
+      "P. V. Sanjay Kumar position before Supreme Court of India judge appointment"
+    ],
+    "1235": [
+      "Spring Rock Township Clinton County Iowa population 2000 Census"
+    ],
+    "3007": [
+      "Victoria and Albert Museum \"Bust of Thomas Baker\" Bernini 1921 purchase price guineas"
+    ],
+    "3328": [
+      "J.C. Leyendecker May 30 1914 Saturday Evening Post cover flowers"
+    ],
+    "1007": [
+      "1970 Faraday Lectureship Prize winner surname"
+    ],
+    "3272": [
+      "Nivolumab UNII"
+    ],
+    "593": [
+      "William II of Holland became King of Germany date"
+    ],
+    "2586": [
+      "Helmut Lang solo exhibition New York 2017 name"
+    ],
+    "2608": [
+      "Narayan Gopal total songs released lifetime"
+    ],
+    "2138": [
+      "\"Grey matter atrophy in cognitively impaired Parkinson’s disease\" control participants"
+    ],
+    "1084": [
+      "2011 Nepal census Urdu language percentage population"
+    ],
+    "3118": [
+      "Chorizema dicksonii 1839 formal description botanist"
+    ],
+    "1838": [
+      "Liverpool 2021-22 FA Cup top scorer goals"
+    ],
+    "874": [
+      "Paul Holdengräber Austrian Decoration for Science and Art award year"
+    ],
+    "410": [
+      "Joeri Verlinden date of birth"
+    ],
+    "4114": [
+      "\"Quit India\" slogan originator"
+    ],
+    "2966": [
+      "Vincent Joseph Schaefer 1947 \"Electrical Indicator of Mechanical Expansion\" patent co-inventor"
+    ],
+    "1934": [
+      "Fox Broadcasting president Entertainment September 1995 left Fox 1996 HBO president"
+    ],
+    "1639": [
+      "Romania Russia 5 February 2022 Rugby Europe Championship Romania tries"
+    ],
+    "3282": [
+      "Jimmie Johnson 2001 NASCAR Busch Series only win track"
+    ],
+    "1847": [
+      "Noel Turner Maltese footballer date of birth"
+    ],
+    "2116": [
+      "Wilbur Zelinsky master's degree university"
+    ],
+    "237": [
+      "1982 minor planet named after Pyotr Kapitsa Soviet astronomer discovery"
+    ],
+    "3015": [
+      "Painted Cave Fire 37-year-old woman San Marcos Road name"
+    ],
+    "2939": [
+      "I Am... Sasha Fierce Beyoncé 2010 ARIA year-end Australian Albums chart position"
+    ],
+    "2914": [
+      "John Graham Lough cause of death"
+    ],
+    "442": [
+      "Machine Girl 2015 compilation"
+    ],
+    "266": [
+      "Srinagar UNESCO Creative City designation year"
+    ],
+    "1821": [
+      "Kow Nkensen Arkaah death date"
+    ],
+    "1537": [
+      "Hunter Schafer gender dysphoria diagnosis grade"
+    ],
+    "480": [
+      "Nepal university established 2016 A.D. located Lalitpur name"
+    ],
+    "1112": [
+      "Kim Tae-young K-League 10,000th goal own goal date"
+    ],
+    "3985": [
+      "Neil Priestley Northamptonshire appearances touring Sri Lankans 1981 first-class"
+    ],
+    "3107": [
+      "FEI European Championships Nations Cup round jump crew interference Cian O'Connor Good Luck"
+    ],
+    "3531": [
+      "Italian Prime Minister \"Iron Baron\""
+    ],
+    "4192": [
+      "Miners' Union Hall British Columbia architect biography practice city"
+    ],
+    "619": [
+      "second-largest island in the world"
+    ],
+    "3565": [
+      "Glottolog Aralle-Tabulahan language code"
+    ],
+    "852": [
+      "William Buell Sr. house drawing 1887 Brockville artist"
+    ],
+    "3162": [
+      "Blockhouse Island Brockville Con Darling statue stroller contents"
+    ],
+    "3949": [
+      "Boyd family crest dexter hand erect in pale fingers bowed inward count"
+    ],
+    "1119": [
+      "10th King of Nepal name"
+    ],
+    "323": [
+      "EPCOT Horizons General Electric sponsorship duration years"
+    ],
+    "1975": [
+      "Moonology Messages Oracle Yasmin Boland card deck number of cards"
+    ],
+    "2503": [
+      "Tom Suozzi mother operating room nurse Nassau County NY hospital"
+    ],
+    "4264": [
+      "2002 Benjamin Franklin Medal for Computer and Cognitive Science winner"
+    ],
+    "219": [
+      "Emperor Xizong of Jin accession date Jin dynasty"
+    ],
+    "2933": [
+      "Game Network Sky EPG number UK launch May 2001"
+    ],
+    "2454": [
+      "original 2-XL Robot default overlay yellow button chest plate multiple-choice letter option"
+    ],
+    "55": [
+      "Lilongwe longitude decimal degrees"
+    ],
+    "4234": [
+      "\"Charing Cross Bridge\" Claude Monet gifted Churchill after WWII"
+    ],
+    "1073": [
+      "Kichizo Yoshida age started learning to craft fine bags"
+    ],
+    "762": [
+      "Sicily Sewell One on One departure date"
+    ],
+    "3268": [
+      "El Cielo Miami first Michelin star year month"
+    ],
+    "3153": [
+      "Jean-Antoine Watteau \"Camp-fire\" first sold to Sirois price livres"
+    ],
+    "2166": [
+      "Relient K \"May the Horse Be with You\" first album"
+    ],
+    "1001": [
+      "1952 Annie Jump Cannon Award in Astronomy recipient"
+    ],
+    "3712": [
+      "Barcelona Arsenal Champions League final May 17 2006 Arsenal yellow cards"
+    ],
+    "3193": [
+      "2011 Census India language growth rates Hindi Meitei Manipuri Bengali second fastest growing language"
+    ],
+    "755": [
+      "\"Buckle Brush\" calotype paper inventor photographer full name"
+    ],
+    "3791": [
+      "Quran verse 29 palm trees olives surah"
+    ],
+    "9": [
+      "2019 Lok Sabha election Mehbooba Mufti defeated by"
+    ],
+    "1778": [
+      "2nd chairman Senate of Pakistan"
+    ],
+    "4261": [
+      "Soweto Gospel Choir first performed for Oprah Winfrey year"
+    ],
+    "2035": [
+      "Ronnie Milsap first moved to Nashville month year"
+    ],
+    "1263": [
+      "Ursa Minor cave Sequoia National Park discovery date"
+    ],
+    "3862": [
+      "Annie Jump Cannon 1913 stars classified per hour"
+    ],
+    "2534": [
+      "Amason Kingi Jeffah Minister for Fisheries Development years"
+    ],
+    "2189": [
+      "first suspension bridge across Jhelum Srinagar city name"
+    ],
+    "710": [
+      "Cornelia Parker first solo museum exhibition year"
+    ],
+    "3157": [
+      "Jamia first gold medal wrestling All India Inter University Championship year",
+      "Jamia first silver medal wrestling All India Inter University Championship year"
+    ],
+    "1324": [
+      "Ritesh Batra university dropout"
+    ],
+    "1016": [
+      "John Shipley Rowlinson Fellow Royal Academy of Engineering appointment year"
+    ],
+    "3598": [
+      "\"We Rollin\" Shubh music composer"
+    ],
+    "2623": [
+      "Pizzurno Palace architects"
+    ],
+    "2465": [
+      "Natasha Merle Eastern District of New York nomination vote count"
+    ],
+    "3021": [
+      "site:metalinjection.net \"Top 15 Metal Viral Videos of the Year\" \"December 8, 2011\" \"number 9\""
+    ],
+    "1392": [
+      "IPL 2015 20th match stadium"
+    ],
+    "252": [
+      "September 2011 Usain Bolt 100-meter race laser performance scientists nationality"
+    ],
+    "2947": [
+      "Romania third-highest mountain ranking"
+    ],
+    "3642": [
+      "2002 zoo three female lynxes captive breeding program"
+    ],
+    "2151": [
+      "2011 Hands Across Hawthorne rally crowd sang Beatles song"
+    ],
+    "2274": [
+      "1992 Ghana presidential election voter turnout percentage"
+    ],
+    "3422": [
+      "Kathleen Gemberling Adkison birthplace Nebraska 1917"
+    ],
+    "3507": [
+      "Joseph Matthäus Aigner \"Portrait of a Lady with Her Dog\" painting year"
+    ],
+    "3750": [
+      "Arab Creativity Oscar winners before Mishary Alafasy"
+    ],
+    "2305": [
+      "John Joseph Kamotho high school attended"
+    ],
+    "337": [
+      "Wahoo's Fish Taco Norco California 2004 drummer owner"
+    ],
+    "862": [
+      "first Catholic church The Woodlands Texas name"
+    ],
+    "3317": [
+      "4th ASEAN-India Grassroots Innovation Forum AIGIF launched country"
+    ],
+    "2674": [
+      "Yangyi Yu score 2020 Tata Steel Masters"
+    ],
+    "3188": [
+      "first president Supreme Court of Brazil appointed by Pedro I"
+    ],
+    "1063": [
+      "first woman keynote speaker major American political party national convention party name"
+    ],
+    "1822": [
+      "Yevgeny Polivanov arrested August 16 1937 city"
+    ],
+    "527": [
+      "Western Australia Southwest 212 km south of Perth midway between Bunbury and Busselton Wardandi Noongar town"
+    ],
+    "2583": [
+      "Janine Antoni Lull 2015 dimensions inches"
+    ],
+    "3667": [
+      "Johnny Damon Little League baseball childhood before junior high"
+    ],
+    "2622": [
+      "2018 ACM Eugene L. Lawler Award recipient"
+    ],
+    "2670": [
+      "Pitti Tondo Fedele Acciai 1823 purchase price scudi"
+    ],
+    "162": [
+      "El Anatsui 1998 Osaka prize"
+    ],
+    "342": [
+      "George Frederic Watts birth date",
+      "Ellen Terry birth date"
+    ],
+    "4197": [
+      "Eiffel Tower NW06 engraved mathematician surname"
+    ],
+    "3635": [
+      "Federal Theatre Project creating executive order number"
+    ],
+    "2563": [
+      "Blenheim Palace gallery destroyed by fire 1861 name"
+    ],
+    "2385": [
+      "Bruno Kreisky Vera Fürth marriage date"
+    ],
+    "3714": [
+      "Douglas Bennett South African cricketer first-class matches 1912 1924 statistics"
+    ],
+    "1164": [
+      "2000 WTA Finals doubles runners-up"
+    ],
+    "947": [
+      "Ahmet Cemal Eringen Ph.D. dissertation title"
+    ],
+    "2821": [
+      "Carrie Underwood Storyteller track listing reveal date"
+    ],
+    "1076": [
+      "1920 Memorial Cup Game 2 Selkirk Fishermen goals Toronto Canoe Club Paddlers"
+    ],
+    "3773": [
+      "Addison Michigan village original settlement name"
+    ],
+    "3682": [
+      "1992 Scandinavian Masters golf tournament venue name"
+    ],
+    "589": [
+      "Srinagar college accredited College for Potential Excellence University Grants Commission April 2010"
+    ],
+    "1337": [
+      "brown cuckoo-dove formal description 1821 zoologist"
+    ],
+    "2045": [
+      "Patty Berg Vare Trophy wins 1948 1962"
+    ],
+    "4141": [
+      "Forthton Ontario original name before Unionville 1831 E. H. Whitmarsh"
+    ],
+    "308": [
+      "Mike Young assistant coach Radford University"
+    ],
+    "32": [
+      "Carrie Underwood Cry Pretty RIAA Gold certification date"
+    ],
+    "3674": [
+      "Spencer Perceval left office Attorney General for England and Wales month year"
+    ],
+    "316": [
+      "Dante-Alighieri monument Allée des Poètes Rue D'Auteuil L'atelier Attitude inspired by Italian-born sculptor"
+    ],
+    "2916": [
+      "Admiral Charles Philip Snyder Cornelia Lee Wolcott number of children"
+    ],
+    "2558": [
+      "1922 ELFA Challenge Cup winner"
+    ],
+    "446": [
+      "Hidegorô Nakano professor April 1 1952 university"
+    ],
+    "2447": [
+      "third Black man Portland Oregon city commissioner name"
+    ],
+    "2294": [
+      "Brockville Ontario war memorial 22.5-foot bronze granite statue unveiled 1924 sculptor"
+    ],
+    "1611": [
+      "Anne Morgan first styled Baroness Hunsdon date"
+    ],
+    "2726": [
+      "WION YouTube blocked \"Russia-Ukraine War\" \"violating YouTube's community guidelines\" 2022 date"
+    ],
+    "3144": [
+      "Andrew Dickson White cousin Luminism Hudson River School artist name"
+    ],
+    "2762": [
+      "J.C. Leyendecker \"Carousel Ride\" December 2020 sale price"
+    ],
+    "1711": [
+      "Donjuan Triumphant 2020 stud fee Euros"
+    ],
+    "3801": [
+      "Camille Clifford Captain John Meredyth Jones-Evans children number"
+    ],
+    "1259": [
+      "Demon's Souls 2009 Crescent Axe two-handed physical damage reduction blocking"
+    ],
+    "3255": [
+      "\"Smooth pinch-zooming using a touchpad is now supported on Linux\" Firefox version"
+    ],
+    "2796": [
+      "Pakistan International Airlines Fokker 27 hijacking Sukkur Karachi date"
+    ],
+    "2473": [
+      "Steven Stucky \"Pinturas de Tamayo\" commissioned by"
+    ],
+    "1350": [
+      "Elisabeth Udolf-Strobl date of birth"
+    ],
+    "4211": [
+      "Emil J. Oberhoffer House Lakeville Minnesota architect designer"
+    ],
+    "31": [
+      "François Aimé Louis Dumoulin 1810 Robinson Crusoe engravings collection number"
+    ],
+    "3549": [
+      "pitcher Christopher Deane Haney high school"
+    ],
+    "457": [
+      "Google Sheets function Unix epoch timestamp convert datetime UTC"
+    ],
+    "1335": [
+      "Johnny Rivers Rewind album Side Two track listing"
+    ],
+    "597": [
+      "January 1 1805 partial solar eclipse Saros series"
+    ],
+    "4097": [
+      "Pantera Ozzfest main stage Ozzy Osbourne Black Sabbath year"
+    ],
+    "510": [
+      "Yoido Full Gospel Church membership 1968"
+    ],
+    "3547": [
+      "Gustav Kramer assistant German-Italian Institute of Marine Biology city country"
+    ],
+    "4145": [
+      "Odd Fellows Hall Eureka California architectural style"
+    ],
+    "466": [
+      "\"first rock star of the Middle East\""
+    ],
+    "1254": [
+      "\"Ninja of Heisei\" real name Japanese criminal"
+    ],
+    "1205": [
+      "Metropolitan Museum of Art Hendrick Goltzius Farnese Hercules accession number"
+    ],
+    "1579": [
+      "2022 population Kızılağaç district Kaş Antalya Turkey"
+    ],
+    "972": [
+      "2014 aromantic pride flag stripe colors third from top"
+    ],
+    "2642": [
+      "USCGC Eagle WIX-327 commissioned 15 May 1946 commissioning authority"
+    ],
+    "946": [
+      "Guinness World Record largest Nerf gun 3.81 meters October 15 2021 record holder"
+    ],
+    "3404": [
+      "Kenneth Stanley \"Boots\" Adams 66th birthday U.S. president attendee"
+    ],
+    "3548": [
+      "Munch \"Horse Team and a St. Bernhard in the Snow\" 1923 number of horses"
+    ],
+    "4226": [
+      "George Cooke engraver father city country"
+    ],
+    "4120": [
+      "Amalendu Krishna mathematics thesis title"
+    ],
+    "224": [
+      "Jun Takahashi 1997 prize"
+    ],
+    "2856": [
+      "Edward Morris Welsh international footballer birth year"
+    ],
+    "1230": [
+      "Royal Society of Chemistry Marlow Medal and Prize 2022 winner"
+    ],
+    "200": [
+      "William Lawrence Morrison University of Sydney graduation year"
+    ],
+    "3502": [
+      "Gyan Sudha Misra Supreme Court of India judge retirement date"
+    ],
+    "1503": [
+      "Bell 430 fuselage length meters"
+    ],
+    "580": [
+      "Sea Organization first three ships original names Church of Scientology"
+    ],
+    "3437": [
+      "Janet Hubert 1981 Broadway debut musical"
+    ],
+    "1902": [
+      "Allegro typeface typographer developer"
+    ],
+    "2646": [
+      "orange-spotted bulbul original 1821 description genus"
+    ],
+    "1174": [
+      "Isa Genzken Der Spiegel number of photographs"
+    ],
+    "1972": [
+      "guidelines requirements inclusion soluble biomarkers osteoarthritis clinical trials publication year"
+    ],
+    "150": [
+      "Adolf Anderssen vs Berthold Suhle 1864 chess match losses"
+    ],
+    "2595": [
+      "Cities: Skylines Google Stadia release date"
+    ],
+    "2969": [
+      "Century of Progress World's Fair amoebic dysentery outbreak deaths"
+    ],
+    "692": [
+      "Edward Oakley Thorp Vivian first marriage month year"
+    ],
+    "4163": [
+      "Cochiquito volcanic group peak elevation meters"
+    ],
+    "691": [
+      "IGNOU 18th convocation 2007 chief guest New Delhi"
+    ],
+    "1929": [
+      "Édouard Jean-Marie Stephan second asteroid discovered number name"
+    ],
+    "179": [
+      "August Scherl gyro-monorail public demonstration zoo"
+    ],
+    "554": [
+      "Sazae-san first Asahi Shimbun strip publication date"
+    ],
+    "1369": [
+      "Electrochemical Society first female president American chemist"
+    ],
+    "2722": [
+      "Ahmed Samir Farag Egyptian footballer date of birth"
+    ],
+    "2855": [
+      "Charles Allen Parker Bartlett birthplace town 1880"
+    ],
+    "3968": [
+      "2003 Badminton Asia Championships host city country"
+    ],
+    "3917": [
+      "UNESCO Science Report The Race Against Time for Smarter Development 2021 web and administrative assistant"
+    ],
+    "455": [
+      "1779 observations map 64 stars Pleiades published 1786 astronomer"
+    ],
+    "1648": [
+      "Efraín González Luna statue Mexican state"
+    ],
+    "3073": [
+      "dentist died May 2019 elevator crash Dr. Bhau Daji Lad Museum Mumbai April 28"
+    ],
+    "2849": [
+      "\"Conner & Coltson's Directory\" \"A. Hurd\" 1824 \"J. Leach\" 1836 village"
+    ],
+    "3258": [
+      "Retlaw 1 combine car sold to Carolwood Foundation date"
+    ],
+    "3915": [
+      "Battle of the Nations first non-European team"
+    ],
+    "3691": [
+      "Arch Linux installation images installation scripts included by default month year"
+    ],
+    "815": [
+      "Aleister Crowley first school age 8"
+    ],
+    "4291": [
+      "first female Director General MI5",
+      "first MI5 Director General name publicized on appointment"
+    ],
+    "834": [
+      "Girlfriends Darnell occupation before mechanic"
+    ],
+    "1849": [
+      "Marquinhos yellow card Croatia Brazil quarter-final 2022 minute"
+    ],
+    "1848": [
+      "Kemka Ajoku bachelor's degree subject 2020"
+    ],
+    "1502": [
+      "Dina Nath Walli returned to Srinagar year landscape watercolor painting"
+    ],
+    "4182": [
+      "first dressmaking school in Japan current name"
+    ],
+    "3526": [
+      "Ramby Avenue KTCZ-FM KMSP Tower nearby interstate"
+    ],
+    "3584": [
+      "Black Star Square Ghana over 500,000 people Bill Clinton Hillary Clinton date"
+    ],
+    "477": [
+      "Bayern Munich vs Inter Milan Champions League Final May 23 2010 Inter shots on target"
+    ],
+    "161": [
+      "first American diplomatic minister to Romania and Serbia"
+    ],
+    "1744": [
+      "Sayed Haider Raza mother death year"
+    ],
+    "1032": [
+      "Judith Feist Hemmendinger master's degree Israeli university"
+    ],
+    "2131": [
+      "Ida Mntwana bronze statue creator"
+    ],
+    "917": [
+      "Alec Benjamin These Two Windows eighth track"
+    ],
+    "2070": [
+      "James Lusk Alcorn \"a cancer upon the body of the nation\""
+    ],
+    "1624": [
+      "Assam governor 16 February 1949 27 May 1949"
+    ],
+    "1366": [
+      "Diana Ramos California Surgeon General bachelor's degree university"
+    ],
+    "3532": [
+      "14th report state entomologist New York 1898 Miss Ormerod 15th report 1893 raspberries England scientific name"
+    ],
+    "1807": [
+      "Gustavo Petro receives Alain Berset Casa de Nariño agreement safeguard fund Commission for the Clarification of the Truth Switzerland date"
+    ],
+    "1958": [
+      "Gay Men's Chorus of Washington D.C. first meeting 1981 building street address"
+    ],
+    "502": [
+      "Oscar Alende predecessor governor Province of Buenos Aires"
+    ],
+    "39": [
+      "Simon Le Bon kibbutz 1978 name"
+    ],
+    "3006": [
+      "Andrew Cuomo signed bill create Palm Tree New York date"
+    ],
+    "1494": [
+      "2012 Stampacchia Gold Medal recipient"
+    ],
+    "427": [
+      "Soviet Union republics area ranking second largest"
+    ],
+    "2808": [
+      "Anant Geete Minister of Power tenure start date",
+      "Anant Geete Minister of Power tenure end date"
+    ],
+    "2897": [
+      "Tim Wakefield 2004 World Series ERA"
+    ],
+    "4019": [
+      "Koshi River basin size square kilometers"
+    ],
+    "1937": [
+      "Rachel Carson Dorothy Freeman first met 1953 city"
+    ],
+    "144": [
+      "Sikkim RTO code SK-06 district"
+    ],
+    "1755": [
+      "Tikti Mach'ay Mountain altitude meters above sea level"
+    ],
+    "2178": [
+      "Corbin Bleu portrait added Broadway Wall of Fame Tony's Di Napoli date"
+    ],
+    "1441": [
+      "Alexandra Park declared local nature reserve year"
+    ],
+    "2506": [
+      "1989 Cape Argus Cycle Tour route distance kilometers"
+    ],
+    "804": [
+      "Paddington Cemetery London 1767 epitaph \"Tho' sweet as Orpheus thou couldst bring\""
+    ],
+    "1137": [
+      "William Prager civil engineering diploma 1925 university"
+    ],
+    "3038": [
+      "Carl Van Vechten graduated 1898 school"
+    ],
+    "1888": [
+      "ISCB Accomplishment by a Senior Scientist Award 2006 recipient"
+    ],
+    "3709": [
+      "David Sweet birthplace city province"
+    ],
+    "2215": [
+      "\"The Horse\" ancient athlete eight running events three Olympics 81 89 CE"
+    ],
+    "2122": [
+      "Maine 2018 Common Ground Country Fair poster Arika von Edler pig breed"
+    ],
+    "50": [
+      "Vladislav Kaborda date of birth"
+    ],
+    "2832": [
+      "Willis H. Flygare Irving Langmuir Award year"
+    ],
+    "4287": [
+      "The Observer film and television critic 1965 1973 English singer"
+    ],
+    "4032": [
+      "Babar Awan suspended by PPP date"
+    ],
+    "1294": [
+      "2016 World Rugby Nations Cup Namibia vs Emerging Italy final score"
+    ],
+    "378": [
+      "Ghana Minister of Information Kulungugu bomb attack 1962"
+    ],
+    "1965": [
+      "Mike Lawler political communications firm partner 2018 2022"
+    ],
+    "3285": [
+      "Audrey McLaughlin sworn in Queen's Privy Council for Canada year"
+    ],
+    "3398": [
+      "mountain stream between Chinamarg Valley and Nurpur Pass"
+    ],
+    "3538": [
+      "Hegel three Romantic arts"
+    ],
+    "3195": [
+      "Kokosing River tributary of"
+    ],
+    "3460": [
+      "Rigoberta Menchú announced formation Encuentro por Guatemala date"
+    ],
+    "788": [
+      "world's first dual-driven shutter system camera"
+    ],
+    "2406": [
+      "Peter III of Aragon became King of Sicily date"
+    ],
+    "1784": [
+      "Château style Québec early 1880s architect"
+    ],
+    "4232": [
+      "Jim Hunt 5838 days sixth-longest gubernatorial tenure former governor"
+    ],
+    "1353": [
+      "first Renaissance palace built from the ground up in Rome"
+    ],
+    "716": [
+      "21st-century neologism date day and night exactly equal"
+    ],
+    "3112": [
+      "smallest known exoplanet by radius within 10 parsecs of Earth as of 2022"
+    ],
+    "1140": [
+      "Jon Kleinberg ACM Fellow year"
+    ],
+    "882": [
+      "\"Holy Mount Athos\" \"The Slav Epic\" dimensions cm"
+    ],
+    "1274": [
+      "Patricio Echegaray Argentine politician San José de Jáchal date of birth"
+    ],
+    "2008": [
+      "1986 ALCS Game 5 innings"
+    ],
+    "415": [
+      "Dragonborn DLC coast of Morrowind setting"
+    ],
+    "74": [
+      "University of Alabama 2010 campus expansion acres purchased"
+    ],
+    "2374": [
+      "T-101 Grach height meters"
+    ],
+    "2411": [
+      "Mowalola Ogunlesi Central Saint Martins dropout year"
+    ],
+    "4076": [
+      "Julia Rucklidge Bachelor of Science McGill University year"
+    ],
+    "3417": [
+      "Thomas Callister Hales Princeton University 1986 Ph.D. dissertation title"
+    ],
+    "1157": [
+      "Edinburgh Castle visitor numbers 2018 exact"
+    ],
+    "3017": [
+      "\"The American Album of Familiar Music\" opening theme composer"
+    ],
+    "2533": [
+      "Al Ain July 2021 rainfall millimeters cloud seeding"
+    ],
+    "1201": [
+      "Pioneer first consumer LaserDisc player solid-state laser"
+    ],
+    "1660": [
+      "Jérôme Sabourin Canadian cinematographer father"
+    ],
+    "3902": [
+      "Ben Bogard ordained Baptist minister year"
+    ],
+    "1513": [
+      "Vicki Manalo Crystal Plunge North Beach swimming program coach name"
+    ],
+    "1704": [
+      "Stefan Parkman conductor Order of the Dannebrog award year"
+    ],
+    "850": [
+      "Louise Elliott Jamie Owen BBC Radio Wales weekday morning show joined year"
+    ],
+    "4142": [
+      "Georges Marrane 1958 French presidential election electoral vote percentage"
+    ],
+    "3846": [
+      "Toshiba first marketed calculator name"
+    ],
+    "2317": [
+      "Shepard Alonzo Mount carriage builder apprenticeship"
+    ],
+    "2146": [
+      "1958 Miss World judge photojournalist editor full name"
+    ],
+    "2960": [
+      "2016–17 Championnat LNA Swiss basketball champion"
+    ],
+    "3265": [
+      "Vinton Gray Cerf \"A View from the 21st Century\" publication date"
+    ],
+    "2269": [
+      "Katia Bellillo Minister for Regional Affairs appointment year"
+    ],
+    "1501": [
+      "Stepan Prokopovich Timoshenko Worcester Reed Warner Medal award year"
+    ],
+    "1891": [
+      "Jinkx Monsoon middle school attended"
+    ],
+    "276": [
+      "Robert Adams early oil portraits Northampton Public Library April 1946 number exhibited"
+    ],
+    "3665": [
+      "James Vernon the Younger appointed extra clerk Privy Council year"
+    ],
+    "693": [
+      "Laurie Anderson \"Another Day in America\" first public showings city"
+    ],
+    "1132": [
+      "countries national anthems mention Napoleon"
+    ],
+    "2365": [
+      "Gustav Arthur Cooper Ph.D. dissertation title"
+    ],
+    "3137": [
+      "Lee B. Spitzer PhD field Vrije Universiteit Amsterdam International Baptist Theological Study Centre"
+    ],
+    "2684": [
+      "Beyoncé Lemonade BPI platinum certification date"
+    ],
+    "3797": [
+      "Robbie Robertson first band formed 1956"
+    ],
+    "930": [
+      "7th All-Africa Games closing date"
+    ],
+    "1608": [
+      "Granny D Haddock cross-country walk 1999 California birthday count"
+    ],
+    "2421": [
+      "2019 World Athletics Championships women's discus throw final Claudine Vita rank"
+    ],
+    "2487": [
+      "2019 Faraday Medal Electrochemistry Group Royal Society of Chemistry winner"
+    ],
+    "2218": [
+      "Michelangelo Risen Christ bronze loincloth added year genitals"
+    ],
+    "3233": [
+      "Lord Limerick’s Follies Tollymore Park conservation work May 2010 in memory conservation architect died 2008"
+    ],
+    "2391": [
+      "first meeting Palestinian National Council date"
+    ],
+    "3508": [
+      "Time Top 10 of Everything 2011 Barton Hollow The Civil Wars ranking"
+    ],
+    "1731": [
+      "Draj Bridge district location"
+    ],
+    "2844": [
+      "George Reid Mary Hiester Toronto studio street address after honeymoon"
+    ],
+    "3495": [
+      "Hanna Theatre Cleveland Ohio pre-renovation orchestra level capacity"
+    ],
+    "4248": [
+      "Frank Bestow Wiborg high school attended"
+    ],
+    "3288": [
+      "Orchestra of the Age of Enlightenment 21st anniversary founding date"
+    ],
+    "700": [
+      "Kangri cancer effect first studied year"
+    ],
+    "2592": [
+      "original Cape Hatteras Lighthouse number of lamps"
+    ],
+    "940": [
+      "Otto Schlüter professor of geography University of Halle years"
+    ],
+    "1221": [
+      "Joeri Adams 2007 UCI Cyclo-cross World Championships men's junior winning time"
+    ],
+    "1994": [
+      "Brenda Fassie Memeza album track count"
+    ],
+    "701": [
+      "Anugrah Narayan Sinha appointed Deputy Premier cum Finance Minister Bihar province date"
+    ],
+    "459": [
+      "\"Playlist: The Very Best of Heather Headley\" release date"
+    ],
+    "3672": [
+      "2018–19 UEFA Champions League Group C runner-up"
+    ],
+    "2077": [
+      "George F. Archambault pharmacist law degree Boston University"
+    ],
+    "1962": [
+      "Eremiaphila aristidis Lucas description year"
+    ],
+    "3959": [
+      "cerium boiling point Fahrenheit"
+    ],
+    "1491": [
+      "Hank Williams number of children"
+    ],
+    "2643": [
+      "Pieter Bleeker 1846 doctorate honoris causa university ichthyology tropical medicine"
+    ],
+    "745": [
+      "2008 ACM Software System Award winning project name"
+    ],
+    "4257": [
+      "Al Gore Viktor Chernomyrdin announced plans new space station month year"
+    ],
+    "1031": [
+      "1958 Basie Reunion album baritone saxophone player"
+    ],
+    "1786": [
+      "Rotax Micro Max India 2017 season standings first position"
+    ],
+    "3655": [
+      "Lalit Mohan Sharma 24th Chief Justice of India B.A. Hons. university"
+    ],
+    "4246": [
+      "Frida Kahlo largest painting English title"
+    ],
+    "1529": [
+      "India first commercial MCU chip company"
+    ],
+    "2362": [
+      "1964 Summer Olympics women's team foil bronze medal match countries"
+    ],
+    "2224": [
+      "Robert Amirkhanyan \"Best Song\" 1973 festival"
+    ],
+    "180": [
+      "William Cochran Pillar of Fire number egg-shaped float glass layers"
+    ],
+    "356": [
+      "China Mount Everest height 29,029.24 feet 8,848.11 meters survey year"
+    ],
+    "1698": [
+      "Shawnee Slopes 2012 municipal census population"
+    ],
+    "656": [
+      "Zambian flag number of colors",
+      "Zambian flag colors"
+    ],
+    "1419": [
+      "2015 V. M. Goldschmidt Award medalist"
+    ],
+    "1146": [
+      "India first Parsi cricket team Mumbai name"
+    ],
+    "1385": [
+      "White Mountain Central Railroad first ride date New Hampshire"
+    ],
+    "765": [
+      "Köln Frankfurter Straße station opening date"
+    ],
+    "3768": [
+      "Charles Jairus Adams birthplace Vermont town 1917"
+    ],
+    "204": [
+      "Black Condor II death issue"
+    ],
+    "517": [
+      "Frederick William MacMonnies 1932 Summer Olympics art competition medal"
+    ],
+    "1732": [
+      "Pierpont Morgan Library \"Drawings and Prints\" department established year"
+    ],
+    "1898": [
+      "castle overlooked Carmel Glen and its burn Knockentiber East Ayrshire"
+    ],
+    "4129": [
+      "Elizabeth Magie Phillips burial location city state"
+    ],
+    "491": [
+      "Mildred Cohn Golden Plate Award American Academy of Achievement year"
+    ],
+    "3609": [
+      "2022 Greater Los Angeles Homeless Count Downey California homeless individuals total"
+    ],
+    "4225": [
+      "1999 Susan Lucci Emmy presenter"
+    ],
+    "443": [
+      "Buzz Thomas 2006 Michigan State Senate 4th District election opponent"
+    ],
+    "75": [
+      "first 3x3-digit vampire number recreational mathematics"
+    ],
+    "538": [
+      "Mario-Rafael Ionian date of birth"
+    ],
+    "3685": [
+      "Makhdum Khusro Bakhtyar NA-194 Rahim Yar Khan-III independent candidate re-elected general election year"
+    ],
+    "151": [
+      "Harees dish Zanzibar name"
+    ],
+    "3967": [
+      "Spyro: Enter the Dragonfly Official Soundtrack release date day month year"
+    ],
+    "3867": [
+      "Medical University of Varna largest human DNA helix April 23 2016 participants"
+    ],
+    "1269": [
+      "1993 World Senior Chess Championship Women's Tournament winner"
+    ],
+    "3757": [
+      "Manny Diaz Jr. 2010 Miami-Dade County School Board election opponent"
+    ],
+    "963": [
+      "Bonaya Adhi Godana first elected National Assembly Kenya year"
+    ],
+    "4110": [
+      "Harvard 2018 commencement speaker"
+    ],
+    "3501": [
+      "Dangui Oduber father"
+    ],
+    "3883": [
+      "Valencia CF FC Barcelona October 29 2022 Gavi yellow card minute"
+    ],
+    "1872": [
+      "Saddam government combined objections Arab League policy moves costing Iraq $1 billion a year date",
+      "Saddam government Kuwait still using Rumaila oil field objections Arab League date",
+      "Saddam government UAE Kuwait loans not debts to Arab brothers date"
+    ],
+    "3086": [
+      "Anil Biswas joined Krishnagar Government College year Marxist leaders Harinarayan Adhikari Dinesh Mazumdar SFI"
+    ],
+    "2159": [
+      "Emil Oberhoffer LA Philharmonic first performance Ravel Alborada del Gracioso date"
+    ],
+    "537": [
+      "Arvida Theatre Saguenay Quebec 1927 architect"
+    ],
+    "1805": [
+      "2018 Madrid Open men's singles quarterfinals Serbian player"
+    ],
+    "1718": [
+      "Triatoma carrioni first discovered surname"
+    ],
+    "4103": [
+      "Gustave \"Gus\" Fitzhugh Touchard Jr. death city country"
+    ],
+    "2885": [
+      "\"Veer Bhumi\" Indian state"
+    ],
+    "236": [
+      "RuPaul's Drag Race Season 1 Episode 5 lip sync song"
+    ],
+    "3594": [
+      "2010 FIFA World Cup stadium hosted eight matches names South Africa"
+    ],
+    "3692": [
+      "Pavel Sergeevich Aleksandrov first important result every non-denumerable Borel set contains a perfect subset year"
+    ],
+    "366": [
+      "Georges Lemaître \"Discussion sur l’évolution de l’univers\" publication year"
+    ],
+    "1059": [
+      "Batman R.I.P. author pre-2000s band toured recorded"
+    ],
+    "1155": [
+      "Singapore easternmost point island"
+    ],
+    "2976": [
+      "Johnson O'Connor burial city state"
+    ],
+    "3173": [
+      "Motherland: Fort Salem season 1 finale character discovered alive"
+    ],
+    "4063": [
+      "first All-India Ijtema Jamaat-e-Islami venue location"
+    ],
+    "2975": [
+      "Raúl Alfonsín first Minister of Health and Social Development"
+    ],
+    "285": [
+      "Bessie Smith car accident amputated arm"
+    ],
+    "1592": [
+      "Princess Shruti Rajya Lakshmi Devi Shah bachelor's degree campus"
+    ],
+    "1328": [
+      "Morris Kight number of children"
+    ],
+    "2831": [
+      "The MOI! Project Museums of Impact Creative Europe completion year"
+    ],
+    "1239": [
+      "18th Chief Minister of Karnataka"
+    ],
+    "728": [
+      "\"Neptune and Triton\" sculpture garden carved"
+    ],
+    "1809": [
+      "yellowfin sole binomial name credited author"
+    ],
+    "3592": [
+      "M'hamed Djellouli became Prime Minister of Tunisia date"
+    ],
+    "1367": [
+      "Jammu 1986 mosque construction Hindu temple site chief minister"
+    ],
+    "1131": [
+      "barium sulfate DrugBank accession number"
+    ],
+    "4276": [
+      "Nigeria number of bordering countries"
+    ],
+    "1835": [
+      "Kuo Tsai Chen instructor university doctorate"
+    ],
+    "2799": [
+      "Els Aarne number of symphonies"
+    ],
+    "2629": [
+      "Petra Văideanu retired Romanian heptathlete date of birth"
+    ],
+    "3536": [
+      "\"Alastor's Game\" singer Alastor voice full name"
+    ],
+    "1757": [
+      "Cherokee \"River of Many Cliffs\" Blue Ridge Parkway body of water"
+    ],
+    "541": [
+      "Hong Kong Public Order Ordinance commencement date"
+    ],
+    "3958": [
+      "Honda RC143 (1960) dry weight pounds"
+    ],
+    "568": [
+      "IFK central sports club organization founded date day month year place founders"
+    ],
+    "3719": [
+      "Vivienne Westwood Spring-Summer 1984 collection name"
+    ],
+    "3117": [
+      "Clayman Institute for Gender Research director 1994"
+    ],
+    "1391": [
+      "SoCal Sword Fight first tournament year"
+    ],
+    "1990": [
+      "Omar Abdullah preventive detention 4 August 2019 CRPC section",
+      "Omar Abdullah preventive detention 5 August 2019 CRPC section"
+    ],
+    "2742": [
+      "Amédée Gibaud French chess master date of death"
+    ],
+    "3529": [
+      "Band of Joy original keyboardist"
+    ],
+    "1427": [
+      "Die Ärzte New Year's Eve 2006 stadium"
+    ],
+    "4040": [
+      "original Seiken Densetsu 3 soundtrack CD count"
+    ],
+    "1989": [
+      "1961 Tomball High School fire Harris County Texas school closure duration days"
+    ],
+    "613": [
+      "Mira Sintra-Meleças railway station revenue service opening date"
+    ],
+    "608": [
+      "Jeffrey Epstein July 27 2006 Palm Beach County jail released bond amount"
+    ],
+    "1734": [
+      "first personality hoisted Indian National Flag Metaverse Azadi Ka Amrit Mahotsav event 2022"
+    ],
+    "2791": [
+      "Babanrao Shankar Gholap Nana consecutive Vidhan Sabha terms"
+    ],
+    "164": [
+      "Agnew clan crest \"issuant and regardant Proper\" animal"
+    ],
+    "3785": [
+      "Staffordshire University Students' Union boardroom Dulcie September October 2011 name"
+    ],
+    "3681": [
+      "Marina Abramović Uwe Laysiepen primary performance re-enacted 2010 name"
+    ],
+    "3120": [
+      "Colombian soccer player Juan Guzmán born 1988 full name"
+    ],
+    "2443": [
+      "Ronald Ray Blanck D.O. undergraduate college"
+    ],
+    "2401": [
+      "Winnipeg Daily Free Press June 1880 \"too spicy\" \"at least for this town\" production"
+    ],
+    "2554": [
+      "Pedro Medina Avendaño song declared national anthem of Bogotá date"
+    ],
+    "325": [
+      "Ramadan Badry Hussein July 2018 damaged wooden coffin item found"
+    ],
+    "1780": [
+      "Jackson Asiku Sydney 2000 Olympics boxing loss opponent"
+    ],
+    "3183": [
+      "Mozilla Firefox \"Improved the performance\" \"Microsoft's IME\" Defender Windows 11 22H2"
+    ],
+    "1682": [
+      "Albertina Sisulu retirement from politics year"
+    ],
+    "3343": [
+      "Wikipedia Getty Center elevation above sea level"
+    ],
+    "1791": [
+      "Clint Ballard Jr. adopted alias Buddy Clinton year"
+    ],
+    "1204": [
+      "NBC Today Show Eugene Bullard interview host"
+    ],
+    "109": [
+      "Jamia Millia Islamia foundation stone laid by"
+    ],
+    "2564": [
+      "Obama Priority Enforcement Program rollout month year"
+    ],
+    "2382": [
+      "Psalidopodoidea infraorder animal kingdom"
+    ],
+    "1856": [
+      "Tülay Adalı American Institute for Medical and Biological Engineering Fellow year"
+    ],
+    "890": [
+      "1940 Burrard League Championship winner baseball team"
+    ],
+    "36": [
+      "Khusro Bakhtiar Pak-China business council CPEC announcement month year"
+    ],
+    "3627": [
+      "Nick LaLota high school graduation Long Island"
+    ],
+    "1953": [
+      "Gary Schreider Canadian football player death year"
+    ],
+    "1851": [
+      "\"Classification of Relaxation and Concentration Mental States with EEG\" acceptance date Information journal"
+    ],
+    "2757": [
+      "Teresa Czerwińska Ph.D. university"
+    ],
+    "2483": [
+      "1971 Swiss federal election Grisons Graubünden voter participation percentage"
+    ],
+    "3296": [
+      "Don Moen \"I Offer My Life\" original key"
+    ],
+    "3886": [
+      "Shinto funeral process Step Nineteen name"
+    ],
+    "2438": [
+      "Jean-Marc Rouillan married Nathalie Ménigon prison"
+    ],
+    "1984": [
+      "Robert Rutherford Holt master's degree Ph.D. Ivy League university"
+    ],
+    "813": [
+      "Phanas of Pellene 512 BCE stadion winner",
+      "Phanas of Pellene 512 BCE diaulos winner"
+    ],
+    "1212": [
+      "Manyazybash Russia population 2010 census"
+    ],
+    "3637": [
+      "Oussama Mellouli 2000 Olympics men's 400-metre individual medley rank"
+    ],
+    "1086": [
+      "Alan Walker Different World album Singapore certification"
+    ],
+    "3005": [
+      "Donnie McClurkin son name"
+    ],
+    "1976": [
+      "Charles Marchand first public appearance Ottawa 1910 play name"
+    ],
+    "1389": [
+      "Nepal first technical university 2010 government bill"
+    ],
+    "2139": [
+      "Anselm Kiefer 1992 factory studio type"
+    ],
+    "1442": [
+      "first typhoon 2019 Pacific typhoon season name"
+    ],
+    "768": [
+      "National Academy of Design New York 1825 name"
+    ],
+    "1257": [
+      "Abdul Bari president 1946 until death political unit"
+    ],
+    "2372": [
+      "2018 US Billboard 200 year-end chart Rolling Papers 2 Wiz Khalifa position"
+    ],
+    "346": [
+      "Busch Gardens The Old Country 1975 opening day indoor scrambler Battle of Hastings ride name"
+    ],
+    "1061": [
+      "38th mayor of Toronto"
+    ],
+    "43": [
+      "Mohammed Racim date of birth"
+    ],
+    "1866": [
+      "Prism Comics first Q Con West Hollywood date"
+    ],
+    "1191": [
+      "Susie Hutchison Samsung Woodstock blocked mid-round ring crew international show jumping event"
+    ],
+    "897": [
+      "Ferrer Center \"Free Theatre\" late 1914 founder"
+    ],
+    "2580": [
+      "Paul Tonko resigned CEO NYSERDA month year"
+    ],
+    "4155": [
+      "Johann Ignaz Ludwig Fischer place of death"
+    ],
+    "2751": [
+      "Sir Hector-Louis Langevin cabinet position 1870"
+    ],
+    "1058": [
+      "OBS Studio patch notes \"Added support for multiple audio tracks in Simple output recording\" pkv"
+    ],
+    "2134": [
+      "first Indian state operationalize ABDM microsite 100 Microsites Project National Health Authority"
+    ],
+    "1629": [
+      "BAe McDonnell Douglas AV-8B Harrier II memorandum of understanding date"
+    ],
+    "3602": [
+      "John P. Sall honorary doctorate 2003 university"
+    ],
+    "3503": [
+      "former South Africa president died January 4 2007 state funeral name surname"
+    ],
+    "2996": [
+      "Sonny Wade 1969 NFL Draft 236th overall pick team"
+    ],
+    "3462": [
+      "Gopalaswami Parthasarathy assumed charge Vice Chancellor Jawaharlal Nehru University date"
+    ],
+    "1047": [
+      "Seiko Harumi \"The Facilitative Use of Learner-Initiated Translanguaging in Japanese EFL Contexts\" university affiliation"
+    ],
+    "3520": [
+      "Oxyrhuncus cristatus 1821 original description naturalist"
+    ],
+    "2836": [
+      "Heavatar \"All My Kingdoms\" cover artwork creator"
+    ],
+    "1145": [
+      "Adore Delano high school attended"
+    ],
+    "2921": [
+      "WikiLeaks \"ffrelay-debian-4.30.ggi.zip\" MD5"
+    ],
+    "868": [
+      "NS Class 1311 name"
+    ],
+    "1471": [
+      "React version switch id attribute to data-reactid track DOM nodes"
+    ],
+    "1301": [
+      "hindustantimes.com domain registration date"
+    ],
+    "1818": [
+      "Nicholas Biwott University of Melbourne master's economics Commonwealth scholarship return year"
+    ],
+    "969": [
+      "William Harrison Standley appointed American Ambassador to the USSR month year"
+    ],
+    "277": [
+      "first International Association for Engineering Geology and the Environment congress city"
+    ],
+    "71": [
+      "Immature band Don Santos replacement"
+    ],
+    "14": [
+      "Deepwater Horizon 900 sq mi temporary flight restriction FAA requested by"
+    ],
+    "867": [
+      "Mary Fairchild MacMonnies Low St. Louis School of Fine Arts scholarship duration years"
+    ],
+    "1952": [
+      "Edward S. Morse 1881 patent warming ventilating apartments using what"
+    ],
+    "598": [
+      "Jose Maria Canlas Sison Julie de Lima Catholic church marriage month year"
+    ],
+    "2546": [
+      "Anna daughter Sir James Augustus Henry Murray cause of death illness 1879 Oxford English Dictionary"
+    ],
+    "2257": [
+      "Brodie Smith Denver team 2014"
+    ],
+    "3957": [
+      "Mercury crater named after Kurt Vonnegut provisional designation scientific literature"
+    ],
+    "61": [
+      "Beloit College Center for the Sciences renamed 2017"
+    ],
+    "2542": [
+      "Mukul Chandra Dey younger brother Progressive Artists' Group Bengal School painter"
+    ],
+    "3254": [
+      "2015 Gilbert Morgan Smith Medal recipient"
+    ],
+    "2748": [
+      "50 francs Little Prince banknote designer"
+    ],
+    "3271": [
+      "William Moore Davis industry before becoming full-time painter"
+    ],
+    "871": [
+      "Kostas Tsimikas 2021-2022 season assists all competitions"
+    ],
+    "3203": [
+      "Harry E. Huffman two-story Denver mansion name"
+    ],
+    "1917": [
+      "Ys Origin original soundtrack 2007 track listing total tracks"
+    ],
+    "2813": [
+      "19 October 2013 New River Gorge Bridge 84-year-old BASE jumper"
+    ],
+    "15": [
+      "Scott Wilson MOBA signature piece curb between two trash cans"
+    ],
+    "2543": [
+      "John B. Mortimer appointed Judge High Court Hong Kong year"
+    ],
+    "4013": [
+      "Nigerian artist Uzo Njoku birth year"
+    ],
+    "262": [
+      "Wheatland Iowa population 2020 Census"
+    ],
+    "2662": [
+      "Gangabal Lake maximum width kilometers"
+    ],
+    "521": [
+      "Berlinda Tolbert university theater major"
+    ],
+    "3945": [
+      "Runaway Tram Morey's Piers opening date"
+    ],
+    "97": [
+      "Notepad++ version 7.8.8 release date"
+    ],
+    "2103": [
+      "Dr. Abu Baker Asvat Order of Luthuli in Silver award year Cyril Ramaphosa"
+    ],
+    "646": [
+      "Dr. Sanduk Ruit National Order of Merit of Bhutan in Gold conferment date"
+    ],
+    "3610": [
+      "William Kentridge 2009 10-meter sculpture name"
+    ],
+    "2250": [
+      "Tilla embroidery village Iran origin"
+    ],
+    "516": [
+      "Ziwu Ren 2021 \"EEG-Based Driving Fatigue Detection Using a Two-Level Learning Hierarchy Radial Basis Function\" driver age range"
+    ],
+    "2176": [
+      "President Bush signed Iraq War authorization resolution date"
+    ],
+    "3716": [
+      "Steinitz Anderssen 1866 chess match loser prize money British pounds"
+    ],
+    "2491": [
+      "first Black runner win Ultra Two Oceans Marathon South Africa full name"
+    ],
+    "2744": [
+      "Sergio Fajardo Valderrama M.Sc. Mathematics university"
+    ],
+    "1044": [
+      "\"Stone Age Cultures of South Africa\" three-stage system proposers civil engineer"
+    ],
+    "3489": [
+      "Hemidactylus boavistensis elevated species Hemidactylus bouvieri year"
+    ],
+    "2322": [
+      "All Souls College Christopher Codrington statue sculptor"
+    ],
+    "3369": [
+      "Adore Delano Dirty Laundry EP release date"
+    ],
+    "1315": [
+      "Anisotenes cacotechna countries distribution"
+    ],
+    "4283": [
+      "Christian Gyrling departed Naughty Dog month year 17 years replaced Travis McIntosh"
+    ],
+    "3372": [
+      "\"Teotihuacan Ocelot\" alabaster sculpture discovery year"
+    ],
+    "330": [
+      "Buenos Aires Palais de Glace architect designer"
+    ],
+    "4222": [
+      "Manuleleua Paletasala Tovale appointed Associate Minister Prime Minister Cabinet date"
+    ],
+    "4165": [
+      "Welsh nurse palliative care elected Fellow Learned Society of Wales 2011"
+    ],
+    "674": [
+      "1952 Garvan–Olin Medal female chemist recipient"
+    ],
+    "1844": [
+      "George Frederic Watts \"After the Deluge\" original exhibition title 1886"
+    ],
+    "669": [
+      "2022 Streamer Awards Best Variety Streamer winner"
+    ],
+    "779": [
+      "river west of Goldsboro NC"
+    ],
+    "3772": [
+      "Paris Ontario 1887 electric street lamp contract Duncombe Parney 25 lamps 26 cents company"
+    ],
+    "1722": [
+      "Charles Raymond Perrault co-editor-in-chief 2001 2010 journal title"
+    ],
+    "218": [
+      "June 1637 Thomas Ballard Richard Kestian Putney house justices of the peace"
+    ],
+    "958": [
+      "Hardik Pandya balls faced IPL 2019 final CSK vs MI May 12 2019"
+    ],
+    "3060": [
+      "NS 4000 Netherlands length millimeters"
+    ],
+    "2710": [
+      "David W. Duclon Cherie Johnson relationship"
+    ],
+    "2095": [
+      "Pakistan People's Party leading opposition party national level election history until 2022 count"
+    ],
+    "1556": [
+      "Undercover first Paris runway show name"
+    ],
+    "2205": [
+      "Rachel Lambert Mellon Oak Spring Farm Virginia estate acreage"
+    ],
+    "803": [
+      "Peter Arrell Browne Widener \"Portrait of Elena Grimaldi Cattaneo\" 1906 art dealer"
+    ],
+    "81": [
+      "Natasha Merle civil rights fellow 2013 2015 New York City company"
+    ],
+    "1695": [
+      "Norman Rockwell \"Backfence Graffiti\" boy hair color"
+    ],
+    "3647": [
+      "April 2015 Nepal earthquake initial earthquake time",
+      "April 2015 Nepal earthquake 6.6 Mw aftershock time"
+    ],
+    "4237": [
+      "Amadeus Mozart second son full name"
+    ],
+    "2099": [
+      "McGill graduate convicted 2019 espionage Iranian authorities closed-door trial Iran"
+    ],
+    "1436": [
+      "Eric Xing joined Mohamed bin Zayed University of Artificial Intelligence month year"
+    ],
+    "3824": [
+      "Intel Core i7-9700E Processor 8 cores Thermal Design Power watts"
+    ],
+    "361": [
+      "John Lindley 1839 Calytrix acutifolia original scientific name"
+    ],
+    "1345": [
+      "Shubh Irman Thiara 2021 single title"
+    ],
+    "596": [
+      "DropoutTV \"Game Changer\" \"Noise Boys\" spin-off series"
+    ],
+    "1507": [
+      "Mariah Carey Hero lyrics first line"
+    ],
+    "4268": [
+      "Jhelum tributary originates central Pir Panjal Range"
+    ],
+    "2811": [
+      "John Gilbert Layton raised city"
+    ],
+    "552": [
+      "2019 Heinz Hopf Prize winner"
+    ],
+    "3341": [
+      "Romesh Thapar father"
+    ],
+    "2943": [
+      "Şahika Ercümen 100 m VNF world record Kaş Antalya date"
+    ],
+    "2859": [
+      "Barry Goldwater fourth child birth month year"
+    ],
+    "1105": [
+      "Margaret Bourchier Countess of Bath first husband full name"
+    ],
+    "3961": [
+      "Stella Jang became Innisfree cosmetics model year"
+    ],
+    "1971": [
+      "National Heritage List entry 1090695 Stonehouse Stroud Gloucestershire list entry name"
+    ],
+    "2155": [
+      "Emma Albani role Les Huguenots Metropolitan Opera New York 1891"
+    ],
+    "386": [
+      "Isoodon obesulus forefeet vestigial tiny digits"
+    ],
+    "1782": [
+      "Weesp train disaster 1918 recorded fatalities Netherlands"
+    ],
+    "3533": [
+      "NASA Vehicle Assembly Building designated National Historic Civil Engineering Landmark American Society of Civil Engineers year"
+    ],
+    "3011": [
+      "Reba So Good Together RIAA certification"
+    ],
+    "4198": [
+      "Daniel Chester French Minute Man sculpture originally intended material"
+    ],
+    "1631": [
+      "1805 Prix de Rome engraving category number of candidates"
+    ],
+    "1749": [
+      "U.S. Congress Compact of Free Association Marshall Islands Micronesia approval year"
+    ],
+    "2686": [
+      "Tasha's Cauldron of Everything new subclasses count excluding reprints"
+    ],
+    "706": [
+      "Bill Brown University of Chicago critical theorist B.A. university"
+    ],
+    "2559": [
+      "Ruth Mildred Barker birthplace Rhode Island town"
+    ],
+    "3247": [
+      "Yasir Naqvi birthplace city country"
+    ],
+    "1121": [
+      "M. S. Subbulakshmi first recording release age"
+    ],
+    "2157": [
+      "Mammoth Cave National Park first designated International Dark Sky Park date"
+    ],
+    "876": [
+      "Max Vuyisile Sisulu date of birth"
+    ],
+    "3030": [
+      "Albertus Petrus Snyman Conradie death date"
+    ],
+    "2786": [
+      "Frank Beamer Big East Championships wins"
+    ],
+    "2309": [
+      "Shai band Carl Martin replacement"
+    ],
+    "3977": [
+      "Sigurd Aalefjær family moved municipality after leaving U.S."
+    ],
+    "3256": [
+      "pharmacist David Morris Kern birthplace NYC borough"
+    ],
+    "2977": [
+      "Markus Dörk original replacement guitarist Blind Guardian"
+    ],
+    "2010": [
+      "Belvoir Castle Sculpture Garden c. 1680 Ceres sculpture sculptor"
+    ],
+    "1750": [
+      "first Tunisian president elected by universal suffrage after 2011 revolution"
+    ],
+    "2026": [
+      "Mazda R360 first-generation four-speed manual transmission gearbox official Japanese name"
+    ],
+    "1756": [
+      "Justin Kemboi Chesire 2019 Old Mutual 56km Ultra Two Oceans Marathon gun time"
+    ],
+    "1355": [
+      "Bob Rusay dismissed from Cannibal Corpse month year"
+    ],
+    "3199": [
+      "A. Wallis Myers wife"
+    ],
+    "1443": [
+      "University of Michigan MICRO Information Management System development began year D.L. Childs Set-Theoretic Data model"
+    ],
+    "4100": [
+      "Hermann Goldschmidt apartment Paris arrondissement 45 Eugenia discovery"
+    ],
+    "3974": [
+      "Baidu Qualcomm partnership free cloud storage Android Snapdragon announcement date"
+    ],
+    "3488": [
+      "Alain Stanké Knight National Order of Quebec year"
+    ],
+    "1601": [
+      "RuPaul Charles high school California"
+    ],
+    "281": [
+      "Lygia Pape 1975 film gender sexuality title"
+    ],
+    "853": [
+      "Space Shuttle Atlantis height meters"
+    ],
+    "3893": [
+      "Sweden bronze medals 1956 Summer Olympics"
+    ],
+    "2625": [
+      "Manuel Esquivel B.S. physics Louisiana university"
+    ],
+    "1626": [
+      "Njongonkulu Winston Hugh Ndungane high school completed schooling December 1958"
+    ],
+    "3442": [
+      "George Bentham Hedaroma pinifolium Pimelea pinifolia name change year"
+    ],
+    "3755": [
+      "radon-224 half-life hours"
+    ],
+    "3696": [
+      "John Harry Dunning honorary doctorate 2007 university",
+      "John Harry Dunning honorary doctorate 2007 second university"
+    ],
+    "2277": [
+      "Togo Indigenous languages designated 1975 number"
+    ],
+    "3597": [
+      "Cindy Sherman 2007 book title"
+    ],
+    "4123": [
+      "Elsie Tu second husband marriage age"
+    ],
+    "3081": [
+      "René Laennec tubercles cause pulmonary tuberculosis year claimed"
+    ],
+    "3551": [
+      "Indus Jhelum interfluve name"
+    ],
+    "1426": [
+      "Douglas C-47A ZS-EJK Comair Ltd October 1982 crash town"
+    ],
+    "2590": [
+      "Computer History Museum first exhibit year"
+    ],
+    "889": [
+      "19th Women’s Asian Individual Squash Championships AISC 2017 winner"
+    ],
+    "2899": [
+      "Paul Henry first credited asteroid discovery number name"
+    ],
+    "1839": [
+      "Monir Shahroudy Farmanfarmaian Venice Biennale award year"
+    ],
+    "2279": [
+      "Panama decision adopt DVB-T date"
+    ],
+    "685": [
+      "Jean Preudhomme baptized 1732 Swiss municipality"
+    ],
+    "2489": [
+      "first 3D planetarium in India"
+    ],
+    "1691": [
+      "Will Hicok Low instructor 1890 art school"
+    ],
+    "1378": [
+      "Sigma fp EIS maximum shutter speed"
+    ],
+    "3543": [
+      "Die Toten Hosen first number-one album German charts"
+    ],
+    "1070": [
+      "Emmanuel Macron founded political party initial name"
+    ],
+    "1040": [
+      "D&D Unearthed Arcana 2022 Character Origins new species animal-like head"
+    ],
+    "94": [
+      "June 24 2018 Turkey presidential election winning candidate total votes Muharrem İnce total votes"
+    ],
+    "1899": [
+      "MusicBee \"Mini player now supports a large album artwork layout\" version"
+    ],
+    "3511": [
+      "Pakistan Constitution amendments not passed as of 2022 total proposed amendments"
+    ],
+    "2330": [
+      "Plymouth Burial Hill two ancient cannons presented British Government date"
+    ],
+    "1246": [
+      "Dogra Art Museum Jammu inauguration date Dr. Rajendra Prasad"
+    ],
+    "3210": [
+      "African forest elephant scientific name"
+    ],
+    "4159": [
+      "Golda Meir Washington D.C. visit Henry Kissinger \"security versus sovereignty\" month year"
+    ],
+    "4055": [
+      "Cary High School band August 1974 Switzerland event"
+    ],
+    "2666": [
+      "23 Grenville Street Burritts Rapids Community Hall general store built by"
+    ],
+    "4106": [
+      "G-Shock GG-B100-8A battery type"
+    ],
+    "4082": [
+      "Lugbara ethnic group Uganda cultural symbol"
+    ],
+    "1228": [
+      "Edward Baker Jelks Ph.D. archaeology year"
+    ],
+    "2934": [
+      "Boliney Abra Philippines 2020 census population"
+    ],
+    "1295": [
+      "David Crombie appointed Officer of the Order of Canada date"
+    ],
+    "3644": [
+      "Gustav Holst school attended 1886 1891"
+    ],
+    "2668": [
+      "Norman Rockwell first assignment for Look magazine title"
+    ],
+    "1762": [
+      "Savannah Churchill second husband"
+    ],
+    "141": [
+      "\"Un'alma innamorata\" composer 1707"
+    ],
+    "1854": [
+      "Georgia Hiden ballerina death New York City borough"
+    ],
+    "2341": [
+      "Kancheepuram-Thiruvathipuram Road Cheyyar division Tamil Nadu state highway number"
+    ],
+    "3037": [
+      "Floro Garrido Spanish retired footballer death date"
+    ],
+    "4021": [
+      "Ronald Reagan nominated Jean Galloway Bissell new seat date"
+    ],
+    "952": [
+      "Emmanuel Radnitzky enrollment year Ferrer School"
+    ],
+    "2403": [
+      "Union Minister Health Family Welfare launch MusQan initiative India date"
+    ],
+    "76": [
+      "Ila Pant Indian politician birthplace district Uttarakhand"
+    ],
+    "1268": [
+      "Theresa Kuffour former First Lady of Ghana death date"
+    ],
+    "3944": [
+      "George Bentham 1863 Cyanothamnus ramosus renamed binomial"
+    ],
+    "894": [
+      "Julian Bradley first moved to La Crosse Wisconsin with his mother year"
+    ],
+    "3626": [
+      "Süleymaniye damaged great fire year"
+    ],
+    "3312": [
+      "1908 Summer Olympics men's saber fencing number of competitors 11 nations"
+    ],
+    "799": [
+      "Ketanji Brown Jackson circuit judge service end date"
+    ],
+    "2248": [
+      "Winnipeg Free Press ceased publishing regular Sunday edition date"
+    ],
+    "3947": [
+      "COP28 international honor afforestation efforts Indian state"
+    ],
+    "319": [
+      "Baroness Olga Vadimovna von Root father"
+    ],
+    "3452": [
+      "Dalby Hall Lincolnshire rebuilt 1856 J. W. Preston architect"
+    ],
+    "3817": [
+      "Ida Pulis Lathrop married spouse"
+    ],
+    "1083": [
+      "Mansa Musa return journey Mecca 1325 Andalusi poet name"
+    ],
+    "2242": [
+      "Medland Loesch Mdzewski Zhu Montgomery Martin 2007 multivariate linkage analysis finger ridge counts chromosome location ring index middle fingers"
+    ],
+    "3858": [
+      "J.C. Leyendecker 1896 magazine cover competition winner magazine"
+    ],
+    "3148": [
+      "Louis Armstrong first music teacher chose him as bandleader"
+    ],
+    "2174": [
+      "Bluff City Bombers home field 1998 2004 Central Illinois Collegiate League"
+    ],
+    "8": [
+      "Iceland former Prime Minister cabin crew member until 1971"
+    ],
+    "1258": [
+      "Alisher Usmanov 2008 election President Fédération Internationale d'Escrime votes received"
+    ],
+    "59": [
+      "Racing Club top scorer Copa Libertadores 1967"
+    ],
+    "1484": [
+      "Gilbert Hani Mary Hani number of children"
+    ],
+    "158": [
+      "Frida Kahlo first solo exhibit duration days"
+    ],
+    "911": [
+      "Kaki Tree Project first planting school"
+    ],
+    "3763": [
+      "Edvard Munch 1894 painting tired girl lying on bed title"
+    ],
+    "1641": [
+      "fastest marathon dressed as an elf male 2:58:16 2017 Virgin Money London Marathon record holder"
+    ],
+    "2812": [
+      "Twitter tested new homepage phased out \"Old Twitter\" date"
+    ],
+    "1737": [
+      "first NSM supercomputer installed IIT India"
+    ],
+    "1296": [
+      "India agriculture crop known as \"Golden Zest\""
+    ],
+    "2591": [
+      "Downton Abbey Season 5 Jallianwala Bagh massacre episode"
+    ],
+    "2570": [
+      "Kafr al-Awamid Syria district"
+    ],
+    "2928": [
+      "Niels Erik Norlund seismographic stations Denmark Greenland year"
+    ],
+    "3304": [
+      "James V. Allred nominated United States District Court Southern District of Texas Franklin D. Roosevelt date"
+    ],
+    "1013": [
+      "Johann Caspar Füssli Elisabeth children number"
+    ],
+    "2604": [
+      "Wiley Lee Griggs III Negro League infielder nickname"
+    ],
+    "1831": [
+      "Yamaha DX1 1983 case wood type"
+    ],
+    "855": [
+      "Whitby Abbey 1774 stone replaced 199 wooden steps stone source location"
+    ],
+    "66": [
+      "GAIS winger 1949 1960 died February 26 2017 Swedish footballer"
+    ],
+    "4190": [
+      "King Goodwill Zwelithini Queen Mantfombi Dlamini seventh child name"
+    ],
+    "1869": [
+      "Pratt & Whitney R-1340-30 Wasp horsepower"
+    ],
+    "687": [
+      "UN Volunteers 54 United Nations missions agencies funds programs 2019 number served"
+    ],
+    "3248": [
+      "William Hammon University of Pittsburgh gamma globulin polio survivors purification year"
+    ],
+    "487": [
+      "first Indian album over 1 billion Spotify streams"
+    ],
+    "782": [
+      "Leonard Perry Jr. college basketball coach birthplace"
+    ],
+    "3443": [
+      "Society of Illustrators president 1929 1936 first last name"
+    ],
+    "2036": [
+      "Association for Women in Mathematics president before Cora Sadosky"
+    ],
+    "849": [
+      "AT-1 phono cartridge creation ward Tokyo"
+    ],
+    "3344": [
+      "Cierva W.11 Air Horse rotorcraft total built"
+    ],
+    "240": [
+      "India peninsular plateau extends 900 km peaks above 1000 m"
+    ],
+    "1149": [
+      "Saint-Jean-sur-Richelieu old post office Jacques-Cartier Saint-Jacques streets completed 1909 architect"
+    ],
+    "231": [
+      "Kamaʻehuakanaloa Hawaiian god identity"
+    ],
+    "3176": [
+      "Christopher Hornsrud 1928 cabinet Minister of Justice and the Police"
+    ],
+    "2634": [
+      "Gasho Lake city Pakistan"
+    ],
+    "1857": [
+      "year first Zildjian cymbals created"
+    ],
+    "1661": [
+      "Avenger 1985 EP \"Down to the Bone\" record label"
+    ],
+    "2180": [
+      "Louis Moreau Gottschalk yellow fever collapse theater Brazil performance"
+    ],
+    "3986": [
+      "first openly bisexual state official in the United States"
+    ],
+    "3480": [
+      "1997 Fulkerson Prize sole winner outstanding paper discrete mathematics"
+    ],
+    "4086": [
+      "Anna Yuryevna Netrebko named People's Artist of Russia year"
+    ],
+    "2783": [
+      "original Omsund Bridge Kristiansund Norway years in use"
+    ],
+    "1645": [
+      "second YouTube video ever uploaded title"
+    ],
+    "2461": [
+      "James Brain English football manager player born 1900 birthplace city England"
+    ],
+    "3342": [
+      "1841 Captain Shepherd steamer Brockville Lachine Cornwall Coteau rapids"
+    ],
+    "2695": [
+      "P-Model Pause live album recorded venue Tokyo"
+    ],
+    "2102": [
+      "Woodland House School Srinagar foundation founder"
+    ],
+    "2737": [
+      "66 Maja discovery observatory"
+    ],
+    "2044": [
+      "Gough Island Sagina procumbens first found year"
+    ],
+    "1573": [
+      "UNICEF Cricket for Good Ambassador ICC Women’s World Cup 2017 Indian cricketer"
+    ],
+    "3446": [
+      "Stuart Leary body discovered August 23 1988 location"
+    ],
+    "1966": [
+      "7 U.S.C. § 136m section title Federal Insecticide Fungicide Rodenticide Act"
+    ],
+    "1493": [
+      "Jubilee Field Phase 1 Development Plan Unitisation Agreement July 2009 formal approval office"
+    ],
+    "3211": [
+      "Miya Masaoka age began studying classical music"
+    ],
+    "217": [
+      "Edward William McBride 1791-1834 York Gazette John Cameron king's printer April 1815 occupation"
+    ],
+    "2210": [
+      "Zanele Muholi 2011 publication full title"
+    ],
+    "3292": [
+      "WikiLeaks UMBRAGE Component Library UCL CIA contractor documents name"
+    ],
+    "2997": [
+      "Faramarz Gharagozlou 2015 \"Detecting Driver Mental Fatigue\" four classifications techniques methodologies mental fatigue measurement"
+    ],
+    "2705": [
+      "Smith Wigglesworth grandchildren president Elim Pentecostal Church"
+    ],
+    "1842": [
+      "original Nintendo DS Pokémon Diamond Pearl Super Contest number of stages"
+    ],
+    "3515": [
+      "George Brown 1818-1880 refused 1875"
+    ],
+    "835": [
+      "Die Ärzte \"Men Are Pigs\" music video video game character"
+    ],
+    "2313": [
+      "Antonio Scotti Metropolitan Opera House total performances 1899 1933"
+    ],
+    "1593": [
+      "Rishi Sunak \"Points of Light Honour\" soldier"
+    ],
+    "353": [
+      "Neelam Sanjiva Reddy first elected Lok Sabha Hindupur year"
+    ],
+    "134": [
+      "Hsien-Chung Wang number of daughters"
+    ],
+    "2137": [
+      "Ratan Parimoo Gaurav Puraskar Gujarat State Lalit Kala Akademi year"
+    ],
+    "3980": [
+      "Yohji Yamamoto mother sold dressmaking shop year"
+    ],
+    "3267": [
+      "Saudi Arabia top religious body green light codification of Sharia law year"
+    ],
+    "3852": [
+      "Sonam Wangchuk New Ladakh Movement NLM launched year repeated requests student community Ladakh"
+    ],
+    "2243": [
+      "Instagram introduced comment liking date"
+    ],
+    "3382": [
+      "Gordon Plotkin ACM SIGPLAN Programming Languages Achievement Award year"
+    ]
+  }
+}

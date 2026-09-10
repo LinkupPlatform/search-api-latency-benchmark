@@ -1,0 +1,117 @@
+# Current facts and news
+Who is the CEO of Mistral AI?
+What is the current price of Bitcoin in USD?
+When is the next Formula 1 race?
+What is Anthropic's latest funding round?
+EU AI Act latest guidance
+OpenAI latest model release
+Nvidia H100 price per GPU
+Who won the latest French Open men's singles?
+Stripe valuation latest
+Weather in Paris today
+Databricks latest funding round amount
+Who is the Prime Minister of France?
+Federal Reserve interest rate today
+Tesla latest quarterly revenue
+S&P 500 close yesterday
+Latest SpaceX Starship test flight
+EUR USD exchange rate
+Netflix latest subscriber count
+Ligue 1 current standings leader
+Latest Nobel Prize in Physics winners
+
+# Companies, people, and products
+What is Linkup.so?
+Who founded Hugging Face?
+Who is the CEO of Databricks?
+What company owns GitHub?
+Where is Spotify headquartered?
+Who created the Python programming language?
+What does ASML manufacture?
+When was Airbnb founded?
+Who is the chair of Microsoft?
+What is the stock ticker for Pfizer?
+
+# Technology and developer documentation
+What is MCP Model Context Protocol?
+Cloudflare Workers pricing
+React useEffect official documentation
+Python pathlib read text example
+PostgreSQL create index concurrently
+Docker multi stage build example
+Kubernetes readiness probe configuration
+Rust ownership and borrowing guide
+TypeScript satisfies operator
+Git rebase versus merge
+How to paginate a REST API
+OAuth 2.0 authorization code flow
+WebSocket reconnect best practices
+CSS grid center content
+Linux check disk space command
+
+# Science and reference facts
+DeepMind AlphaFold 3 paper
+What is the speed of light in vacuum?
+How many bones are in the adult human body?
+What causes the northern lights?
+Distance from Earth to the Moon
+Boiling point of water at sea level
+What is CRISPR Cas9?
+Largest moon in the solar system
+Chemical symbol for tungsten
+How do mRNA vaccines work?
+
+# Travel, local, and practical queries
+Train from Paris to Amsterdam duration
+Best time to visit Iceland
+Museums open Monday in London
+Public transport from JFK to Manhattan
+Electrical outlets used in Japan
+Do US citizens need a visa for Brazil?
+Hiking trails near Chamonix for beginners
+Where to park near the Louvre?
+Time zone difference New York Tokyo
+Emergency phone number in the European Union
+
+# Shopping and comparisons
+Noise cancelling headphones comparison
+Laptop with long battery life for travel
+Mechanical keyboard linear versus tactile switches
+Electric car range comparison
+Best office chair for lower back support
+OLED versus mini LED monitor
+Carry on luggage size international flights
+Induction versus gas cooktop efficiency
+Mirrorless camera for beginners
+Running shoes for flat feet
+
+# Culture, sports, and entertainment
+Airbus A350 range
+When does UEFA Euro 2028 start?
+Who wrote One Hundred Years of Solitude?
+Academy Award for Best Picture latest winner
+How long is a marathon?
+Origin of the Tour de France
+Most visited museum in the world
+What instruments are in a string quartet?
+Where was the television series Dark filmed?
+Rules of a football offside
+
+# Multilingual queries
+Quel temps fait-il à Montréal aujourd'hui ?
+Wer ist der Bundespräsident von Deutschland?
+¿Cuál es la capital de Uruguay?
+Qual è il museo più visitato di Roma?
+日本の現在の首相は誰ですか
+서울의 오늘 날씨
+Quem fundou a Embraer?
+Wat is de hoofdstad van Australië?
+Vilket är Sveriges högsta berg?
+Quelle est la durée du trajet Paris Lyon en train ?
+
+# Navigational and ambiguous queries
+NASA climate change evidence
+Apple support reset password
+Mercury facts
+Jaguar speed
+Python download
