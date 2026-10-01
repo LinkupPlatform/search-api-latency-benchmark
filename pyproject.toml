@@ -22,6 +22,7 @@ build-backend = "hatchling.build"
 packages = ["src/search_benchmark"]
 
 [tool.uv]
+exclude-newer = "7 days"
 
 [tool.pyright]
 include = ["src", "tests"]
