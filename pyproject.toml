@@ -23,6 +23,7 @@ packages = ["src/search_benchmark"]
 
 [tool.uv]
 exclude-newer = "7 days"
+required-version = ">=0.13.5,<0.14.0"
 
 [tool.pyright]
 include = ["src", "tests"]
